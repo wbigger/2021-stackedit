@@ -53,7 +53,8 @@ Useremo questa seconda strategia, quindi andremo a creare due macchine: una la c
 ## Creazione delle macchine
 Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
 
-## 
+## PC0-bastion
+
 Andiamo a sinistra su _Istanze_, quindi in alto a destra _lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo su _Seleziona_. Lasciamo t2.micro e ancora _Next: Configura dettagli istanza_.
 ## Accesso alle macchine EC2
 
@@ -76,6 +77,6 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc4NTE3NjIsNTMzNTYxMDU0LDc2NT
-MxODk0Ml19
+eyJoaXN0b3J5IjpbMTQ0MDc4MzI4Miw1MzM1NjEwNTQsNzY1Mz
+E4OTQyXX0=
 -->
