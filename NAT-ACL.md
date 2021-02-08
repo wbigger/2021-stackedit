@@ -41,7 +41,7 @@ Per verificare la configurazione, dobbiamo creare delle macchine virtuali su EC2
 
 L'obiettivo è dimostrare che è possibile accedere ad internet dall'interno della nostra rete anche se una macchina _non_ ha un indirizzo IP pubblico, ma solo quello privato.
 
-## Accesso alle macchine dall'esterno
+## Nota sull'accesso alle macchine dall'esterno
 Per poter testare la configurazione, dobbiamo entrare in SSH all'interno delle nostre macchine dal nostro computer di casa o di scuola. Questo non è banale con il NAT perché le macchine interne hanno solo indirizzi IP privati e non sono quindi raggiungibili dall'esterno. Ricordiamo infatti che il NAT risolve il problema per una LAN di accedere all'esterno, ma _non_ il problema di accedere dall'esterno ai computer della nostra LAN.
 
 Per risolvere questa situazione ci sono diverse strategie:
@@ -67,20 +67,11 @@ Lanciamo una nuova istanza sempre Amazon Linux 2 AMI di tipo t2.micro.
 
 Nella schermata di configurazione, selezioniamo la stessa VPC e la stessa subnet 0. Nella voce _Auto-assign Public IP_ stavolta mettiamo _Disable_, perché questa macchina non deve essere accessibile anche dall'esterno. Andiamo su Review and Launch e lanciamo la macchina.
 
-## Accesso alle macchine EC2
+## Esecuzione del test
 
-Prima dAbbiamo un
-Creazione di due istanze EC2.
+Per comodità, nella lista delle istanze rinominiamo le macchine come PC0-bastion e PC1.
 
-Una delle due sarà bastian host con indirizzo IP pubblico.
-
-Collegarsi via SSH al bastian host
-
-Dal bastian host, collegarsi via SSH al secondo host
-
-Provare a fare il PING dal bastian host a google.
-
-Vedere il traffico che passa attraverso il NAT Gateway.
+Seleziamo PC0-bastion e 
 
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -88,6 +79,6 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI5MTQ0ODgsLTE5MTE0OTg4NzMsNT
+eyJoaXN0b3J5IjpbLTE3NTM0NTQwMDQsLTE5MTE0OTg4NzMsNT
 MzNTYxMDU0LDc2NTMxODk0Ml19
 -->
