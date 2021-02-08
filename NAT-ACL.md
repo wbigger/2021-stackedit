@@ -57,7 +57,8 @@ Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
 
 Andiamo a sinistra su _Istanze_, quindi in alto a destra _lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo su _Seleziona_. Lasciamo t2.micro e ancora _Next: Configura dettagli istanza_. 
 
-Nella schermata di configurazione, selezioniamo la VPC che vogliamo usare e la subnet 
+Nella schermata di configurazione, selezioniamo la VPC di default (o quella che volete) e la _Subnet 0_. Nella voce _Auto-assign Public IP_ mettiamo _Enable_, perché questa macchina deve essere accessibile anche dall'esterno. Premiamo ora su _Next_ .
+
 
 ### PC1
 
@@ -83,6 +84,6 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjEyMDkyODYsNTMzNTYxMDU0LDc2NT
-MxODk0Ml19
+eyJoaXN0b3J5IjpbMTU3Njc5NzY1NCw1MzM1NjEwNTQsNzY1Mz
+E4OTQyXX0=
 -->
