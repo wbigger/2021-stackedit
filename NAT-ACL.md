@@ -73,15 +73,19 @@ Per comodità, nella lista delle istanze rinominiamo le macchine come PC0-bastio
 
 Seleziamo PC1 e dai dettagli in basso ci segniamo il suo indirizzo IPv4 privato, nel mio caso è `172.30.0.213`.
 
-Ora dobbiamo copiare la nostra chiave privata nel PC0-bastion per permettergli di connettersi alle altre macchine. Selezioniamo PC0-bastion e annotiamo il suo indirizzo IP pubblico. Dal nostro computer di casa possiamo copiare la chiave con qualcosa del tipo:
+Ora dobbiamo copiare la nostra chiave privata nel PC0-bastion per permettergli di connettersi alle altre macchine. Selezioniamo PC0-bastion e annotiamo il suo indirizzo IP pubblico, nel mio caso `18.212.212.224`. Dal nostro computer di casa possiamo copiare la chiave con qualcosa del tipo:
 
 ```shell
-scp ./miachiave.pem ec2-user@
+scp ./miachiave.pem ec2-user@18.212.212.224:
 ```
 
-Dobbiamo  la  clicchiamo in alto su Connect e selezioniamo la modalità di connessione preferita. Potete provare anche con "EC2 Instance Connect", se va bene è la soluzione più semplice.
+Ora connettiamoci via SSH a PC0-bastion, con qualcosa del tipo:
+```shell
+ssh -i "miachiave.pem" ec2-user@18.212.212.224
+```
 
-Da questa macchina 
+Dall'interno di questa macchina, connettiamoci a PC1:
+
 
 
 
@@ -93,6 +97,6 @@ Da questa macchina
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM5MTE4MzgsLTE5MTE0OTg4NzMsNT
-MzNTYxMDU0LDc2NTMxODk0Ml19
+eyJoaXN0b3J5IjpbMTAyMDgyMDU1NiwtMTkxMTQ5ODg3Myw1Mz
+M1NjEwNTQsNzY1MzE4OTQyXX0=
 -->
