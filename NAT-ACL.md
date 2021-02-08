@@ -48,7 +48,7 @@ Per risolvere questa situazione ci sono diverse strategie:
 - **port forwarding**: diciamo al firewall che se proviamo ad accedere sulla porta 22, la richiesta deve essere reindirizzata ad una specifica macchina interna alla LAN; questa strategia non è semplicissima da implementare su AWS nella nostra configurazione
 - **bastion host** (computer bastione): una macchina con indirizzo IP pubblico all'interno della nostra LAN che è quindi accessibile dall'esterno e che ci fa da tramite per il resto della nostra rete interna.
 
-Useremo questa seconda strategia, quindi andremo a creare due macchine: una la chiamiamo PC0-bastion e l'altra PC1-webserver.
+Useremo questa seconda strategia, quindi andremo a creare due macchine: una la chiamiamo PC0-bastion e l'altra PC1.
 
 ## Creazione delle macchine
 Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
@@ -62,10 +62,10 @@ Nella schermata di configurazione, selezioniamo la VPC di default (o quella che 
 Qui mettiamo delle regole che permettono l'accesso solo via SSH.
 
 
-### PC1-webserver
-Lanciamo una nuova istanza sempre A
+### PC1
+Lanciamo una nuova istanza sempre Amazon Linux 2 AMI di tipo t2.micro.
 
-Nella schermata di configurazione, selezioniamo la VPC di default (o quella che volete) e la _Subnet 0_. Nella voce _Auto-assign Public IP_ mettiamo _Enable_, perché questa macchina deve essere accessibile anche dall'esterno. Premiamo ora su _Next_ diverse volte finché non arriviamo a _Security groups_.
+Nella schermata di configurazione, selezioniamo la stessa VPC e la stessa subnet 0. Nella voce _Auto-assign Public IP_ stavolta mettiamo _Disable_, perché questa macchina non deve essere accessibile anche dall'esterno. Andiamo su Review and Launch e lanciamo la macchina.
 
 ## Accesso alle macchine EC2
 
@@ -88,6 +88,6 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODEzMzg5NywtMTkxMTQ5ODg3Myw1Mz
-M1NjEwNTQsNzY1MzE4OTQyXX0=
+eyJoaXN0b3J5IjpbLTExNzI5MTQ0ODgsLTE5MTE0OTg4NzMsNT
+MzNTYxMDU0LDc2NTMxODk0Ml19
 -->
