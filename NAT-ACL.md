@@ -42,7 +42,10 @@ Per verificare la configurazione, dobbiamo creare delle macchine virtuali su EC2
 L'obiettivo è dimostrare che è possibile accedere ad internet dall'interno della nostra rete anche se una macchina _non_ ha un indirizzo IP pubblico, ma solo quello privato.
 
 ## Accesso alle macchine dall'esterno
-Per poter testare la configurazione, dobbiamo entrare in SSH all'interno delle nostre macchine dal nostro computer di casa o di scuola. Questo non è banale con il NAT 
+Per poter testare la configurazione, dobbiamo entrare in SSH all'interno delle nostre macchine dal nostro computer di casa o di scuola. Questo non è banale con il NAT perché le macchine interne hanno solo indirizzi IP privati e non sono quindi raggiungibili dall'esterno. Ricordiamo infatti che il NAT risolve il problema per una LAN di accedere all'esterno, ma _non_ il problema di accedere dall'esterno ai computer della nostra LAN.
+
+Per risolvere questa situazione ci sono diverse strategie:
+- port forwarding: diciamo al firewall che se proviamo ad accedere
 
 ## Creazione delle macchine
 Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
@@ -69,5 +72,5 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjgxOTUxMiw3NjUzMTg5NDJdfQ==
+eyJoaXN0b3J5IjpbLTY4NjA0Mzc1Myw3NjUzMTg5NDJdfQ==
 -->
