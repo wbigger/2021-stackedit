@@ -55,7 +55,7 @@ Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
 
 ### PC0-bastion
 
-Andiamo a sinistra su _Istanze_, quindi in alto a destra _lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo su _Seleziona_. Lasciamo t2.micro e ancora _Next: Configura dettagli istanza_. 
+Andiamo a sinistra su _Istanze_, quindi in alto a destra _Lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo su _Seleziona_. Lasciamo t2.micro e ancora _Next: Configura dettagli istanza_. 
 
 Nella schermata di configurazione, selezioniamo la VPC di default (o quella che volete) e la _Subnet 0_. Nella voce _Auto-assign Public IP_ mettiamo _Enable_, perché questa macchina deve essere accessibile anche dall'esterno. Premiamo ora su _Next_ diverse volte finché non arriviamo a _Security groups_.
 
@@ -63,7 +63,7 @@ Qui mettiamo delle regole che permettono l'accesso solo via SSH.
 
 
 ### PC1-webserver
-Andiamo a sinistra su _Istanze_, quindi in alto a destra _lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo su _Seleziona_. Lasciamo t2.micro e ancora _Next: Configura dettagli istanza_. 
+Lanciamo una nuova istanza sempre A
 
 Nella schermata di configurazione, selezioniamo la VPC di default (o quella che volete) e la _Subnet 0_. Nella voce _Auto-assign Public IP_ mettiamo _Enable_, perché questa macchina deve essere accessibile anche dall'esterno. Premiamo ora su _Next_ diverse volte finché non arriviamo a _Security groups_.
 
@@ -88,6 +88,6 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE0OTg4NzMsNTMzNTYxMDU0LDc2NT
-MxODk0Ml19
+eyJoaXN0b3J5IjpbMTk0ODEzMzg5NywtMTkxMTQ5ODg3Myw1Mz
+M1NjEwNTQsNzY1MzE4OTQyXX0=
 -->
