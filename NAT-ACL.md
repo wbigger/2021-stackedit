@@ -37,6 +37,9 @@ Filtra i pacchetti in uscita alla nostra rete. Impostiamole in modo che:
 
 # Verifica della configurazione
 
+Per verificare la configurazione, dobbiamo creare delle macchine virtuali su EC2.
+
+L'obiettivo è dimostrare che è possibile accedere ad internet dal
 Creazione di due istanze EC2.
 
 Una delle due sarà bastian host con indirizzo IP pubblico.
@@ -55,5 +58,5 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM1OTc4MzUsNzY1MzE4OTQyXX0=
+eyJoaXN0b3J5IjpbLTEwNzAyNDY3OTQsNzY1MzE4OTQyXX0=
 -->
