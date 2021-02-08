@@ -85,6 +85,10 @@ ssh -i "miachiave.pem" ec2-user@18.212.212.224
 ```
 
 Dall'interno di questa macchina, connettiamoci a PC1:
+```shell
+# sono dentro 
+ssh -i "miachiave.pem" ec2-user@18.212.212.224
+```
 
 
 
@@ -97,6 +101,6 @@ Dall'interno di questa macchina, connettiamoci a PC1:
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDgyMDU1NiwtMTkxMTQ5ODg3Myw1Mz
+eyJoaXN0b3J5IjpbLTIxNjUzOTA0MCwtMTkxMTQ5ODg3Myw1Mz
 M1NjEwNTQsNzY1MzE4OTQyXX0=
 -->
