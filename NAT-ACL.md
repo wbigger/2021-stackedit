@@ -76,8 +76,10 @@ Seleziamo PC1 e dai dettagli in basso ci segniamo il suo indirizzo IPv4 privato,
 Ora dobbiamo copiare la nostra chiave privata nel PC0-bastion per permettergli di connettersi alle altre macchine. Selezioniamo PC0-bastion e annotiamo il suo indirizzo IP pubblico, nel mio caso `18.212.212.224`. Dal nostro computer di casa possiamo copiare la chiave con qualcosa del tipo:
 
 ```shell
-scp ./miachiave.pem ec2-user@18.212.212.224:
+scp -i miachiave.pem ./miachiave.pem ec2-user@18.212.212.224:
 ```
+
+Nota: la prima volta scriviamo la chiave per connetterci in scp con l'opzione `-i`, la seconda volta è per specificare il file che stiamo copiando.
 
 Ora connettiamoci via SSH a PC0-bastion, con qualcosa del tipo:
 ```shell
@@ -111,6 +113,6 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDk5Nzk3MCwtMTkxMTQ5ODg3Myw1Mz
-M1NjEwNTQsNzY1MzE4OTQyXX0=
+eyJoaXN0b3J5IjpbLTEzNTA0NDM0MTYsMTk3MDk5Nzk3MCwtMT
+kxMTQ5ODg3Myw1MzM1NjEwNTQsNzY1MzE4OTQyXX0=
 -->
