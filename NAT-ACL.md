@@ -43,6 +43,8 @@ L'obiettivo è dimostrare che è possibile accedere ad internet dall'interno del
 
 ## Creazione delle macchine
 Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
+
+Andiamo a sinistra su _Istanze_, quindi in alto a destra _lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo 
 ## Accesso alle macchine EC2
 
 Prima dAbbiamo un
@@ -64,5 +66,5 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODA1MDI3NSw3NjUzMTg5NDJdfQ==
+eyJoaXN0b3J5IjpbLTY0NTA0NzM5OCw3NjUzMTg5NDJdfQ==
 -->
