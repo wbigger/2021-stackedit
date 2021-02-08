@@ -41,10 +41,13 @@ Per verificare la configurazione, dobbiamo creare delle macchine virtuali su EC2
 
 L'obiettivo è dimostrare che è possibile accedere ad internet dall'interno della nostra rete anche se una macchina _non_ ha un indirizzo IP pubblico, ma solo quello privato.
 
+## Accesso alle macchine dall'esterno
+Per poter testare la configurazione, dobbiamo entrare in SSH all'interno delle nostre macchine dal nostro computer di casa o di scuola. Questo non è banale con il NAT 
+
 ## Creazione delle macchine
 Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
 
-Andiamo a sinistra su _Istanze_, quindi in alto a destra _lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo 
+Andiamo a sinistra su _Istanze_, quindi in alto a destra _lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo su _Seleziona_. Lasciamo t2.micro e ancora _Next: Configura dettagli istanza_.
 ## Accesso alle macchine EC2
 
 Prima dAbbiamo un
@@ -66,5 +69,5 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTA0NzM5OCw3NjUzMTg5NDJdfQ==
+eyJoaXN0b3J5IjpbMjExMjgxOTUxMiw3NjUzMTg5NDJdfQ==
 -->
