@@ -48,7 +48,7 @@ Per risolvere questa situazione ci sono diverse strategie:
 - **port forwarding**: diciamo al firewall che se proviamo ad accedere sulla porta 22, la richiesta deve essere reindirizzata ad una specifica macchina interna alla LAN; questa strategia non è semplicissima da implementare su AWS nella nostra configurazione
 - **bastion host** (computer bastione): una macchina con indirizzo IP pubblico all'interno della nostra LAN che è quindi accessibile dall'esterno e che ci fa da tramite per il resto della nostra rete interna.
 
-Useremo questa seconda strategia, quindi andremo a creare due macchine: una la chiamiamo PC0-bastion e l'altra PC1
+Useremo questa seconda strategia, quindi andremo a creare due macchine: una la chiamiamo PC0-bastion e l'altra PC1-webserver.
 
 ## Creazione delle macchine
 Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
@@ -57,11 +57,15 @@ Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
 
 Andiamo a sinistra su _Istanze_, quindi in alto a destra _lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo su _Seleziona_. Lasciamo t2.micro e ancora _Next: Configura dettagli istanza_. 
 
-Nella schermata di configurazione, selezioniamo la VPC di default (o quella che volete) e la _Subnet 0_. Nella voce _Auto-assign Public IP_ mettiamo _Enable_, perché questa macchina deve essere accessibile anche dall'esterno. Premiamo ora su _Next_ .
+Nella schermata di configurazione, selezioniamo la VPC di default (o quella che volete) e la _Subnet 0_. Nella voce _Auto-assign Public IP_ mettiamo _Enable_, perché questa macchina deve essere accessibile anche dall'esterno. Premiamo ora su _Next_ diverse volte finché non arriviamo a _Security groups_.
+
+Qui mettiamo delle regole che permettono l'accesso solo via SSH.
 
 
-### PC1
+### PC1-webserver
+Andiamo a sinistra su _Istanze_, quindi in alto a destra _lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo su _Seleziona_. Lasciamo t2.micro e ancora _Next: Configura dettagli istanza_. 
 
+Nella schermata di configurazione, selezioniamo la VPC di default (o quella che volete) e la _Subnet 0_. Nella voce _Auto-assign Public IP_ mettiamo _Enable_, perché questa macchina deve essere accessibile anche dall'esterno. Premiamo ora su _Next_ diverse volte finché non arriviamo a _Security groups_.
 
 ## Accesso alle macchine EC2
 
@@ -84,6 +88,6 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Njc5NzY1NCw1MzM1NjEwNTQsNzY1Mz
-E4OTQyXX0=
+eyJoaXN0b3J5IjpbLTE5MTE0OTg4NzMsNTMzNTYxMDU0LDc2NT
+MxODk0Ml19
 -->
