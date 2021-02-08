@@ -71,7 +71,11 @@ Nella schermata di configurazione, selezioniamo la stessa VPC e la stessa subnet
 
 Per comodità, nella lista delle istanze rinominiamo le macchine come PC0-bastion e PC1.
 
-Seleziamo PC0-bastion e 
+Seleziamo PC1 e dai dettagli in basso ci segniamo il suo indirizzo IPv4 privato, nel mio caso è `172.30.0.213`.
+
+Ora seleziamo PC0-bastion, clicchiamo
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -79,6 +83,6 @@ Seleziamo PC0-bastion e
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM0NTQwMDQsLTE5MTE0OTg4NzMsNT
-MzNTYxMDU0LDc2NTMxODk0Ml19
+eyJoaXN0b3J5IjpbNTEwMjE5MjMwLC0xOTExNDk4ODczLDUzMz
+U2MTA1NCw3NjUzMTg5NDJdfQ==
 -->
