@@ -41,9 +41,11 @@ Per verificare la configurazione, dobbiamo creare delle macchine virtuali su EC2
 
 L'obiettivo è dimostrare che è possibile accedere ad internet dall'interno della nostra rete anche se una macchina _non_ ha un indirizzo IP pubblico, ma solo quello privato.
 
+## Creazione delle macchine
+Andiamo sul nostro account AWS e nella 
 ## Accesso alle macchine EC2
 
-Per fare questo 
+Prima dAbbiamo un
 Creazione di due istanze EC2.
 
 Una delle due sarà bastian host con indirizzo IP pubblico.
@@ -62,5 +64,5 @@ Vedere il traffico che passa attraverso il NAT Gateway.
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDAxNzYyMyw3NjUzMTg5NDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMzM4NDcwNjcsNzY1MzE4OTQyXX0=
 -->
