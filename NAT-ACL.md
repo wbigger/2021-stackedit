@@ -73,7 +73,11 @@ Per comodità, nella lista delle istanze rinominiamo le macchine come PC0-bastio
 
 Seleziamo PC1 e dai dettagli in basso ci segniamo il suo indirizzo IPv4 privato, nel mio caso è `172.30.0.213`.
 
-Ora seleziamo PC0-bastion, clicchiamo in alto su Connect e selezioniamo la modalità di connessione preferita. Potete provare anche con "EC2 Insta
+Ora seleziamo PC0-bastion e prendiamo il suo i la  clicchiamo in alto su Connect e selezioniamo la modalità di connessione preferita. Potete provare anche con "EC2 Instance Connect", se va bene è la soluzione più semplice.
+
+Da questa macchina 
+
+
 
 
 
@@ -83,6 +87,6 @@ Ora seleziamo PC0-bastion, clicchiamo in alto su Connect e selezioniamo la modal
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTkyNzcxNSwtMTkxMTQ5ODg3Myw1Mz
-M1NjEwNTQsNzY1MzE4OTQyXX0=
+eyJoaXN0b3J5IjpbNTcwODcxMzQzLC0xOTExNDk4ODczLDUzMz
+U2MTA1NCw3NjUzMTg5NDJdfQ==
 -->
