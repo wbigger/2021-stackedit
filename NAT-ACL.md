@@ -100,17 +100,17 @@ Per abilitare l'agent forwarding, basta usare l'opzione -A. Dal vostro computer 
 ```shell
 ssh -A -i "miachiave.pem" ec2-user@18.212.212.224
 ```
-> Se non dovesse funzionare, su mac, Linux o git-bash prima aggiungete la chiave al vostro portachiavi con il comando:
+> Se non dovesse funzionare, su mac, Linux o git-bash prima di questo comando aggiungete la chiave al vostro portachiavi con il comando:
 > ```
 > ssh-add -K myPrivateKey.pem
  >```
 
-Ora mi collego al bastion host, quindi da lì scrivo
+Ora che sono sul bastian host, mi collego al PC1:
 ```shell
 # sono dentro PC0-bastion
 ssh ec2-user@172.30.0.213
 ```
-ed automaticamente mi collego a PC1 usando le stesse credenziali con cui sono entrato in PC0-bastion.
+ed automaticamente ssh usa le stesse credenziali con cui sono entrato in PC0-bastion.
 
 Infine, da dentro PC1 pingo il server google:
 ```shell
@@ -128,8 +128,8 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNDcxNDEyLDEwMTgyMTA2MiwtMjAwMz
-U2ODgzOCwtMTQwMzIwOTE0NywtNzY2NzU3Njk2LC0xMzUwNDQz
-NDE2LDE5NzA5OTc5NzAsLTE5MTE0OTg4NzMsNTMzNTYxMDU0LD
-c2NTMxODk0Ml19
+eyJoaXN0b3J5IjpbLTE2ODEyODA0MTAsMTAxODIxMDYyLC0yMD
+AzNTY4ODM4LC0xNDAzMjA5MTQ3LC03NjY3NTc2OTYsLTEzNTA0
+NDM0MTYsMTk3MDk5Nzk3MCwtMTkxMTQ5ODg3Myw1MzM1NjEwNT
+QsNzY1MzE4OTQyXX0=
 -->
