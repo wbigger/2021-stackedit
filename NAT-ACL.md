@@ -93,22 +93,17 @@ Ora dobbiamo accedere a PC0-bastion che ci fa da ponte per il PC1. Ma per colleg
 
 Ci viene in aiuto una funzionalità di SSH che si chiama _agent forwarding_. Con questo metodo, possiamo collegarci ad una macchina e poi da lì ad un altra, usando la stessa chiave. Nota: questo metodo funziona solo se tutti i computer usano la stessa chiave.
 
-Per abilitare l'agent forwarding, basta usare l'opzione -A. Quindi dal mio com
-
-
-
-Nota: la prima volta scriviamo la chiave per connetterci in scp con l'opzione `-i`, la seconda volta è per specificare il file che stiamo copiando.
-
-Ora connettiamoci via SSH a PC0-bastion, con qualcosa del tipo:
+Per abilitare l'agent forwarding, basta usare l'opzione -A. Quindi dal mio computer di casa scrivo:
 ```shell
-ssh -i "miachiave.pem" ec2-user@18.212.212.224
+ssh -A -i "miachiave.pem" ec2-user@18.212.212.224
 ```
 
-Dall'interno di questa macchina, connettiamoci a PC1:
+e mi collego al bastion host, quindi da lì scrivo
 ```shell
 # sono dentro PC0-bastion
-ssh -i "miachiave.pem" ec2-user@172.30.0.213
+ssh ec2-user@172.30.0.213
 ```
+ed automaticamente mi collego a PC1 usando le stesse credenziali con cui sono entrato in PC0-bastion.
 
 Infine, da dentro PC1 pingo il server google:
 ```shell
@@ -126,8 +121,8 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDAwNzgsLTIwMDM1Njg4MzgsLTE0MD
-MyMDkxNDcsLTc2Njc1NzY5NiwtMTM1MDQ0MzQxNiwxOTcwOTk3
-OTcwLC0xOTExNDk4ODczLDUzMzU2MTA1NCw3NjUzMTg5NDJdfQ
-==
+eyJoaXN0b3J5IjpbMTAxODIxMDYyLC0yMDAzNTY4ODM4LC0xND
+AzMjA5MTQ3LC03NjY3NTc2OTYsLTEzNTA0NDM0MTYsMTk3MDk5
+Nzk3MCwtMTkxMTQ5ODg3Myw1MzM1NjEwNTQsNzY1MzE4OTQyXX
+0=
 -->
