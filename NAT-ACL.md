@@ -96,14 +96,16 @@ Ora dobbiamo accedere a PC0-bastion che ci farà da ponte per  PC1. Ma c'è un p
 
 Ci viene in aiuto una funzionalità di SSH che si chiama _agent forwarding_. Con questo metodo, possiamo collegarci ad una macchina e poi da lì ad un altra, usando la stessa chiave. Nota: questo metodo funziona solo se tutti i computer usano la stessa chiave.
 
-Per abilitare l'agent forwarding, basta usare l'opzione -A. Quindi dal mio computer di casa scrivo:
+Per abilitare l'agent forwarding, basta usare l'opzione -A. Dal vostro computer di casa, Navigate nella cartella che contiene la chiave e scrivete:
 ```shell
 ssh -A -i "miachiave.pem" ec2-user@18.212.212.224
 ```
+> Se non dovesse funzionare, su mac, Linux o git-bash prima aggiungete la chiave al vostro portachiavi con il comando:
+> ```
+> ssh-add -K myPrivateKey.pem
+ >```
 
-> Se non dovesse funzionare, su mac, Linux o git-aggiungete 
-
-e mi collego al bastion host, quindi da lì scrivo
+Ora mi collego al bastion host, quindi da lì scrivo
 ```shell
 # sono dentro PC0-bastion
 ssh ec2-user@172.30.0.213
@@ -126,8 +128,8 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY1MTk2NjIsMTAxODIxMDYyLC0yMD
-AzNTY4ODM4LC0xNDAzMjA5MTQ3LC03NjY3NTc2OTYsLTEzNTA0
-NDM0MTYsMTk3MDk5Nzk3MCwtMTkxMTQ5ODg3Myw1MzM1NjEwNT
-QsNzY1MzE4OTQyXX0=
+eyJoaXN0b3J5IjpbNDgyNDcxNDEyLDEwMTgyMTA2MiwtMjAwMz
+U2ODgzOCwtMTQwMzIwOTE0NywtNzY2NzU3Njk2LC0xMzUwNDQz
+NDE2LDE5NzA5OTc5NzAsLTE5MTE0OTg4NzMsNTMzNTYxMDU0LD
+c2NTMxODk0Ml19
 -->
