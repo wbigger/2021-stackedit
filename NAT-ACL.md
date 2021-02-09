@@ -53,19 +53,22 @@ Useremo questa seconda strategia, quindi andremo a creare due macchine: una la c
 ## Creazione delle macchine
 Andiamo sul nostro account AWS e tra i servizi scegliamo EC2.
 
+Useremo la _subnet 0_ come sottorete pubblica, e la _subnet 1_ come sottorete privata.
+
 ### PC0-bastion
 
 Andiamo a sinistra su _Istanze_, quindi in alto a destra _Lancia instanze_. Lasciamo _Amazon Linux 2 AMI_ e premiamo su _Seleziona_. Lasciamo t2.micro e ancora _Next: Configura dettagli istanza_. 
 
 Nella schermata di configurazione, selezioniamo la VPC di default (o quella che volete) e la _Subnet 0_. Nella voce _Auto-assign Public IP_ mettiamo _Enable_, perché questa macchina deve essere accessibile anche dall'esterno. Premiamo ora su _Next_ diverse volte finché non arriviamo a _Security groups_.
 
-Qui mettiamo delle regole che permettono l'accesso via SSH e abilitiamo il ping (All ICMP - IPv4).
+Qui mettiamo le seguenti regole:
+- accesso via SSH e abilitiamo il ping (All ICMP - IPv4).
 
 
 ### PC1
 Lanciamo una nuova istanza sempre Amazon Linux 2 AMI di tipo t2.micro.
 
-Nella schermata di configurazione, selezioniamo la stessa VPC e la stessa subnet 0. Nella voce _Auto-assign Public IP_ stavolta mettiamo _Disable_, perché questa macchina non deve essere accessibile anche dall'esterno. Assicuriamoci che il Secuirty Group sia lo stesso di PC0-bastion (con le stesse regole), andiamo su Review and Launch e lanciamo la macchina.
+Nella schermata di configurazione, selezioniamo la stessa VPC ma stavolta selezionamo la subnet 0. Nella voce _Auto-assign Public IP_ stavolta mettiamo _Disable_, perché questa macchina non deve essere accessibile anche dall'esterno. Assicuriamoci che il Security Group sia lo stesso di PC0-bastion (con le stesse regole), andiamo su Review and Launch e lanciamo la macchina.
 
 ## Esecuzione del test
 
@@ -108,7 +111,7 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzM0NzY2OCwtNzY2NzU3Njk2LC0xMz
+eyJoaXN0b3J5IjpbMTc5NzEzNDk3NywtNzY2NzU3Njk2LC0xMz
 UwNDQzNDE2LDE5NzA5OTc5NzAsLTE5MTE0OTg4NzMsNTMzNTYx
 MDU0LDc2NTMxODk0Ml19
 -->
