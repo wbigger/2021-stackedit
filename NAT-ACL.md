@@ -45,8 +45,8 @@ L'obiettivo è dimostrare che è possibile accedere ad internet dall'interno del
 Per poter testare la configurazione, dobbiamo entrare in SSH all'interno delle nostre macchine dal nostro computer di casa o di scuola. Questo non è banale con il NAT perché le macchine interne hanno solo indirizzi IP privati e non sono quindi raggiungibili dall'esterno. Ricordiamo infatti che il NAT risolve il problema per una LAN di accedere all'esterno, ma _non_ il problema di accedere dall'esterno ai computer della nostra LAN.
 
 Per risolvere questa situazione ci sono diverse strategie:
-- **port forwarding**: diciamo al firewall che se proviamo ad accedere sulla porta 22, la richiesta deve essere reindirizzata ad una specifica macchina interna alla LAN; questa strategia non è semplicissima da implementare su AWS nella nostra configurazione
-- **bastion host** (computer bastione): una macchina con indirizzo IP pubblico all'interno della nostra LAN che è quindi accessibile dall'esterno e che ci fa da tramite per il resto della nostra rete interna.
+- **port forwarding**: diciamo al firewall che se proviamo ad accedere sulla porta 22, la richiesta deve essere reindirizzata ad una specifica macchina interna alla LAN; questa strategia non è semplice da implementare su AWS nella nostra configurazione
+- **bastion host** (computer bastione): una macchina con indirizzo IP pubblico all'interno di una nostra subnet pubblica che  accessibile dall'esterno e che ci fa da tramite per il resto della nostra rete interna.
 
 Useremo questa seconda strategia, quindi andremo a creare due macchine: una la chiamiamo PC0-bastion e l'altra PC1.
 
@@ -108,7 +108,7 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Njc1NzY5NiwtMTM1MDQ0MzQxNiwxOT
-cwOTk3OTcwLC0xOTExNDk4ODczLDUzMzU2MTA1NCw3NjUzMTg5
-NDJdfQ==
+eyJoaXN0b3J5IjpbLTQyMzM0NzY2OCwtNzY2NzU3Njk2LC0xMz
+UwNDQzNDE2LDE5NzA5OTc5NzAsLTE5MTE0OTg4NzMsNTMzNTYx
+MDU0LDc2NTMxODk0Ml19
 -->
