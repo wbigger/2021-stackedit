@@ -81,7 +81,7 @@ Dobbiamo fare in modo che:
 
 Andiamo quindi su AWS, nei servizi selezioniamo *VPC*-> *Route Tables* -> *Route 0* (se non esiste, createla), nei dettagli in basso controllate che sia associata alla _subnet 0_, quindi andate sulla tab _Routes_ e quindi _Edit routes_. Nella tabella ci devono essere due rotte: la local (lasciatela così) e _0.0.0.0/0_ che deve puntare all'internet gateway (qualcosa che comincia con _igw_, se non avete un internet gateway, createlo nella voce dedicata del menù a sinistra).
 
-Ripetiamo la stessa operazione con la rotta _Route 1_, anche qui se non esiste createla. Lasciate la rotta local e aggiungete la rotta _0.0.0.0/0_ con destinazione il NAT Gat
+Ripetiamo la stessa operazione con la rotta _Route 1_, anche qui se non esiste createla. Lasciate la rotta local così com'é e aggiungete la rotta _0.0.0.0/0_ con destinazione il NAT Gateway (qualcosa che comincia con _nat_).
 
 ## Esecuzione del test
 
@@ -89,11 +89,7 @@ Per comodità, nella lista delle istanze rinominiamo le macchine come PC0-bastio
 
 Seleziamo PC1 e dai dettagli in basso ci segniamo il suo indirizzo IPv4 privato, nel mio caso è `172.30.0.213`.
 
-Ora dobbiamo copiare la nostra chiave privata nel PC0-bastion per permettergli di connettersi alle altre macchine. Selezioniamo PC0-bastion e annotiamo il suo indirizzo IP pubblico, nel mio caso `18.212.212.224`. Dal nostro computer di casa possiamo copiare la chiave con qualcosa del tipo:
-
-```shell
-scp -i miachiave.pem ./miachiave.pem ec2-user@18.212.212.224:
-```
+Ora dobbiamo accedere a PC0-bastion che ci fa da ponte per il PC1. Ma come facciamo a collegarci via ssh a P
 
 Nota: la prima volta scriviamo la chiave per connetterci in scp con l'opzione `-i`, la seconda volta è per specificare il file che stiamo copiando.
 
@@ -124,8 +120,8 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAyODg0NTgsLTIwMDM1Njg4MzgsLT
-E0MDMyMDkxNDcsLTc2Njc1NzY5NiwtMTM1MDQ0MzQxNiwxOTcw
-OTk3OTcwLC0xOTExNDk4ODczLDUzMzU2MTA1NCw3NjUzMTg5ND
-JdfQ==
+eyJoaXN0b3J5IjpbMTMwNjkzODg4MSwtMjAwMzU2ODgzOCwtMT
+QwMzIwOTE0NywtNzY2NzU3Njk2LC0xMzUwNDQzNDE2LDE5NzA5
+OTc5NzAsLTE5MTE0OTg4NzMsNTMzNTYxMDU0LDc2NTMxODk0Ml
+19
 -->
