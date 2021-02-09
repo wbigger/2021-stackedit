@@ -80,11 +80,13 @@ Dobbiamo fare in modo che:
 - la tabella di routing della nostra sottorete pubblica, nel nostro caso _subnet 0_, abbia come rotta di default l'Internet Gateway
 - la tabella di routing della nostra sottorete privata, nel nostro caso _subnet 1_, abbia come rotta di default il NAT Gateway.
 
-Per farlo, andiamo su AWS, nei servizi selezioniamo *VPC*-> *Route Tables* -> *Route 0* (se non esiste, createla), nei dettagli in basso controllate che sia associata alla _subnet 0_, quindi andate sulla tab _Routes_ e quindi _Edit routes_. Nella tabella ci devono essere due rotte: la *local* (lasciatela così) e _0.0.0.0/0_ che deve puntare all'internet gateway (qualcosa che comincia con _igw_, se non avete un internet gateway, createlo nella voce dedicata del menù a sinistra).
+Per farlo, andiamo su AWS, nei servizi selezioniamo *VPC*-> *Route Tables* -> *Route 0* (se non esiste, createla), nei dettagli in basso controllate che sia associata alla _subnet 0_, quindi andate sulla tab _Routes_ e quindi _Edit routes_. Nella tabella ci devono essere due rotte: la *local* (lasciatela così) e _0.0.0.0/0_ che deve puntare all'Internet Gateway (potete selezionarlo dal menù a tendina, comincia con _igw_; se non avete un Internet Gateway, createlo nella voce dedicata del menù a sinistra).
 
-Ripetiamo la stessa operazione con la rotta _Route 1_, anche qui se non esiste createla. Lasciate la rotta local così com'é e aggiungete la rotta _0.0.0.0/0_ con destinazione il NAT Gateway (qualcosa che comincia con _nat_).
+Ripetiamo la stessa operazione con la tabella _Route 1_, anche qui se non esiste createla. Lasciate la rotta *local* così com'é e aggiungete la rotta _0.0.0.0/0_ con destinazione il NAT Gateway (qualcosa che comincia con _nat_).
 
 ## Esecuzione del test
+
+Andate su *Servizi*->*EC2*.
 
 Per comodità, nella lista delle istanze rinominiamo le macchine come PC0-bastion e PC1.
 
@@ -122,8 +124,8 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA2ODE0ODEsMTAxODIxMDYyLC0yMD
-AzNTY4ODM4LC0xNDAzMjA5MTQ3LC03NjY3NTc2OTYsLTEzNTA0
-NDM0MTYsMTk3MDk5Nzk3MCwtMTkxMTQ5ODg3Myw1MzM1NjEwNT
-QsNzY1MzE4OTQyXX0=
+eyJoaXN0b3J5IjpbMTU0NDk1NjQ4NCwxMDE4MjEwNjIsLTIwMD
+M1Njg4MzgsLTE0MDMyMDkxNDcsLTc2Njc1NzY5NiwtMTM1MDQ0
+MzQxNiwxOTcwOTk3OTcwLC0xOTExNDk4ODczLDUzMzU2MTA1NC
+w3NjUzMTg5NDJdfQ==
 -->
