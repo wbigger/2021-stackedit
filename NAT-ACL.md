@@ -72,7 +72,8 @@ Lanciamo una nuova istanza sempre Amazon Linux 2 AMI di tipo t2.micro.
 Nella schermata di configurazione, selezioniamo la stessa VPC ma stavolta selezionamo la subnet 0. Nella voce _Auto-assign Public IP_ stavolta mettiamo _Disable_, perché questa macchina non deve essere accessibile anche dall'esterno. Nel Security Group, mettiamo le stesse regole del PC0-bastion (SSH e pint), andiamo su Review and Launch e lanciamo la macchina.
 
 ### Configurazione del routing
-
+Il diagramma di rete che andre
+![Diagramma di rete NAT](https://github.com/wbigger/2021-stackedit/blob/main/nat-gateway-diagram.png?raw=true)
 
 ## Esecuzione del test
 
@@ -115,7 +116,7 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDMyMDkxNDcsLTc2Njc1NzY5NiwtMT
-M1MDQ0MzQxNiwxOTcwOTk3OTcwLC0xOTExNDk4ODczLDUzMzU2
-MTA1NCw3NjUzMTg5NDJdfQ==
+eyJoaXN0b3J5IjpbMTM3Njc5NjA0NywtMTQwMzIwOTE0NywtNz
+Y2NzU3Njk2LC0xMzUwNDQzNDE2LDE5NzA5OTc5NzAsLTE5MTE0
+OTg4NzMsNTMzNTYxMDU0LDc2NTMxODk0Ml19
 -->
