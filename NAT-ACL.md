@@ -79,7 +79,9 @@ Dobbiamo fare in modo che:
 - la tabella di routing della nostra sottorete pubblica, nel nostro caso _subnet 0_, come rotta di default abbia l'internet gateway
 - la tabella di routing della nostra sottorete privata, nel nostro caso _subnet 1_, abbiamo come rotta di default il nat gateway.
 
-Andiamo quindi su AWS, nei servizi selezioniamo *VPC*-> *Route Tables* -> *Route 0* (se non esiste, createla), nei dettagli in basso controllate che sia associata alla _subnet 0_, quindi andate sulla tab _Routes_ e quindi _Edit routes_. Nella tabella ci devono essere due rotte: la local (lasciatela così) e _0.0.0.0/0_ che deve puntare all'internet gateway (qualcosa che comincia con _igw_
+Andiamo quindi su AWS, nei servizi selezioniamo *VPC*-> *Route Tables* -> *Route 0* (se non esiste, createla), nei dettagli in basso controllate che sia associata alla _subnet 0_, quindi andate sulla tab _Routes_ e quindi _Edit routes_. Nella tabella ci devono essere due rotte: la local (lasciatela così) e _0.0.0.0/0_ che deve puntare all'internet gateway (qualcosa che comincia con _igw_, se non avete un internet gateway, createlo nella voce dedicata del menù a sinistra).
+
+Ripetiamo la stessa operazione con la rotta _Route 1_, anche qui se non esiste createla. Lasciate la rotta local e aggiungete la rotta _0.0.0.0/0_ con destinazione il NAT Gat
 
 ## Esecuzione del test
 
@@ -122,8 +124,8 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNTY0NTA2LC0yMDAzNTY4ODM4LC0xND
-AzMjA5MTQ3LC03NjY3NTc2OTYsLTEzNTA0NDM0MTYsMTk3MDk5
-Nzk3MCwtMTkxMTQ5ODg3Myw1MzM1NjEwNTQsNzY1MzE4OTQyXX
-0=
+eyJoaXN0b3J5IjpbLTExNDAyODg0NTgsLTIwMDM1Njg4MzgsLT
+E0MDMyMDkxNDcsLTc2Njc1NzY5NiwtMTM1MDQ0MzQxNiwxOTcw
+OTk3OTcwLC0xOTExNDk4ODczLDUzMzU2MTA1NCw3NjUzMTg5ND
+JdfQ==
 -->
