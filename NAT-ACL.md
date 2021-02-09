@@ -69,17 +69,18 @@ Qui mettiamo le seguenti regole:
 ### PC1
 Lanciamo una nuova istanza sempre Amazon Linux 2 AMI di tipo t2.micro.
 
-Nella schermata di configurazione, selezioniamo la stessa VPC ma stavolta con la subnet 0. Nella voce _Auto-assign Public IP_  mettiamo _Disable_, perché questa macchina non deve essere accessibile anche dall'esterno. Nel Security Group, mettiamo le stesse regole del PC0-bastion (SSH e pint), andiamo su Review and Launch e lanciamo la macchina.
+Nella schermata di configurazione, selezioniamo la stessa VPC ma stavolta con la subnet 0. Nella voce _Auto-assign Public IP_  mettiamo _Disable_, perché questa macchina non deve essere accessibile anche dall'esterno. Nel Security Group, mettiamo le stesse regole del PC0-bastion (SSH e pint), andiamo su *Review and Launch* e lanciamo la macchina.
 
 ### Configurazione del routing
 Il diagramma di rete che andremo ad usare è qualcosa di simile al seguente, preso dalla [documentazione ufficiale](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html).
+
 ![Diagramma di rete NAT](https://github.com/wbigger/2021-stackedit/blob/main/nat-gateway-diagram.png?raw=true)
 
 Dobbiamo fare in modo che:
-- la tabella di routing della nostra sottorete pubblica, nel nostro caso _subnet 0_, come rotta di default abbia l'internet gateway
-- la tabella di routing della nostra sottorete privata, nel nostro caso _subnet 1_, abbiamo come rotta di default il nat gateway.
+- la tabella di routing della nostra sottorete pubblica, nel nostro caso _subnet 0_, abbia come rotta di default l'Internet Gateway
+- la tabella di routing della nostra sottorete privata, nel nostro caso _subnet 1_, abbia come rotta di default il NAT Gateway.
 
-Andiamo quindi su AWS, nei servizi selezioniamo *VPC*-> *Route Tables* -> *Route 0* (se non esiste, createla), nei dettagli in basso controllate che sia associata alla _subnet 0_, quindi andate sulla tab _Routes_ e quindi _Edit routes_. Nella tabella ci devono essere due rotte: la local (lasciatela così) e _0.0.0.0/0_ che deve puntare all'internet gateway (qualcosa che comincia con _igw_, se non avete un internet gateway, createlo nella voce dedicata del menù a sinistra).
+Per farlo, andiamo su AWS, nei servizi selezioniamo *VPC*-> *Route Tables* -> *Route 0* (se non esiste, createla), nei dettagli in basso controllate che sia associata alla _subnet 0_, quindi andate sulla tab _Routes_ e quindi _Edit routes_. Nella tabella ci devono essere due rotte: la *local* (lasciatela così) e _0.0.0.0/0_ che deve puntare all'internet gateway (qualcosa che comincia con _igw_, se non avete un internet gateway, createlo nella voce dedicata del menù a sinistra).
 
 Ripetiamo la stessa operazione con la rotta _Route 1_, anche qui se non esiste createla. Lasciate la rotta local così com'é e aggiungete la rotta _0.0.0.0/0_ con destinazione il NAT Gateway (qualcosa che comincia con _nat_).
 
@@ -121,8 +122,8 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzMzNjk5NCwxMDE4MjEwNjIsLTIwMD
-M1Njg4MzgsLTE0MDMyMDkxNDcsLTc2Njc1NzY5NiwtMTM1MDQ0
-MzQxNiwxOTcwOTk3OTcwLC0xOTExNDk4ODczLDUzMzU2MTA1NC
-w3NjUzMTg5NDJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDA2ODE0ODEsMTAxODIxMDYyLC0yMD
+AzNTY4ODM4LC0xNDAzMjA5MTQ3LC03NjY3NTc2OTYsLTEzNTA0
+NDM0MTYsMTk3MDk5Nzk3MCwtMTkxMTQ5ODg3Myw1MzM1NjEwNT
+QsNzY1MzE4OTQyXX0=
 -->
