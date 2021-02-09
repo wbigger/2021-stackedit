@@ -62,13 +62,17 @@ Andiamo a sinistra su _Istanze_, quindi in alto a destra _Lancia instanze_. Lasc
 Nella schermata di configurazione, selezioniamo la VPC di default (o quella che volete) e la _Subnet 0_. Nella voce _Auto-assign Public IP_ mettiamo _Enable_, perché questa macchina deve essere accessibile anche dall'esterno. Premiamo ora su _Next_ diverse volte finché non arriviamo a _Security groups_.
 
 Qui mettiamo le seguenti regole:
-- accesso via SSH e abilitiamo il ping (All ICMP - IPv4).
+- accesso via SSH
+- ping (All ICMP - IPv4).
 
 
 ### PC1
 Lanciamo una nuova istanza sempre Amazon Linux 2 AMI di tipo t2.micro.
 
-Nella schermata di configurazione, selezioniamo la stessa VPC ma stavolta selezionamo la subnet 0. Nella voce _Auto-assign Public IP_ stavolta mettiamo _Disable_, perché questa macchina non deve essere accessibile anche dall'esterno. Assicuriamoci che il Security Group sia lo stesso di PC0-bastion (con le stesse regole), andiamo su Review and Launch e lanciamo la macchina.
+Nella schermata di configurazione, selezioniamo la stessa VPC ma stavolta selezionamo la subnet 0. Nella voce _Auto-assign Public IP_ stavolta mettiamo _Disable_, perché questa macchina non deve essere accessibile anche dall'esterno. Nel Security Group, mettiamo le stesse regole del PC0-bastion (SSH e pint), andiamo su Review and Launch e lanciamo la macchina.
+
+### Configurazione del routing
+
 
 ## Esecuzione del test
 
@@ -111,7 +115,7 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzEzNDk3NywtNzY2NzU3Njk2LC0xMz
-UwNDQzNDE2LDE5NzA5OTc5NzAsLTE5MTE0OTg4NzMsNTMzNTYx
-MDU0LDc2NTMxODk0Ml19
+eyJoaXN0b3J5IjpbLTE0MDMyMDkxNDcsLTc2Njc1NzY5NiwtMT
+M1MDQ0MzQxNiwxOTcwOTk3OTcwLC0xOTExNDk4ODczLDUzMzU2
+MTA1NCw3NjUzMTg5NDJdfQ==
 -->
