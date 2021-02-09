@@ -101,6 +101,8 @@ Per abilitare l'agent forwarding, basta usare l'opzione -A. Quindi dal mio compu
 ssh -A -i "miachiave.pem" ec2-user@18.212.212.224
 ```
 
+> Se non dovesse funzionare, su mac, Linux o git-aggiungete 
+
 e mi collego al bastion host, quindi da lì scrivo
 ```shell
 # sono dentro PC0-bastion
@@ -124,7 +126,7 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE4NDI3MjYsMTAxODIxMDYyLC0yMD
+eyJoaXN0b3J5IjpbLTEzMzY1MTk2NjIsMTAxODIxMDYyLC0yMD
 AzNTY4ODM4LC0xNDAzMjA5MTQ3LC03NjY3NTc2OTYsLTEzNTA0
 NDM0MTYsMTk3MDk5Nzk3MCwtMTkxMTQ5ODg3Myw1MzM1NjEwNT
 QsNzY1MzE4OTQyXX0=
