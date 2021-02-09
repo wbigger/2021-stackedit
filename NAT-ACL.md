@@ -76,8 +76,10 @@ Il diagramma di rete che andremo ad usare è qualcosa di simile al seguente, pre
 ![Diagramma di rete NAT](https://github.com/wbigger/2021-stackedit/blob/main/nat-gateway-diagram.png?raw=true)
 
 Dobbiamo fare in modo che:
-- la tabella di routing della nostra sotto rete pubblica, nel nostro caso _subnet 0_, come rotta di default abbia l'internet gateway
--  la 
+- la tabella di routing della nostra sottorete pubblica, nel nostro caso _subnet 0_, come rotta di default abbia l'internet gateway
+- la tabella di routing della nostra sottorete privata, nel nostro caso _subnet 1_, abbiamo come rotta di default il nat gateway.
+
+Andiamo quindi su AWS, nei servizi selezioniamo *VPC*-> Router
 
 ## Esecuzione del test
 
@@ -120,7 +122,7 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5MTg0ODY0LC0xNDAzMjA5MTQ3LC03Nj
-Y3NTc2OTYsLTEzNTA0NDM0MTYsMTk3MDk5Nzk3MCwtMTkxMTQ5
-ODg3Myw1MzM1NjEwNTQsNzY1MzE4OTQyXX0=
+eyJoaXN0b3J5IjpbLTIwMDM1Njg4MzgsLTE0MDMyMDkxNDcsLT
+c2Njc1NzY5NiwtMTM1MDQ0MzQxNiwxOTcwOTk3OTcwLC0xOTEx
+NDk4ODczLDUzMzU2MTA1NCw3NjUzMTg5NDJdfQ==
 -->
