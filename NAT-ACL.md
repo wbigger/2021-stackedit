@@ -90,9 +90,9 @@ Andate su *Servizi*->*EC2*.
 
 Per comodità, nella lista delle istanze rinominiamo le macchine come PC0-bastion e PC1.
 
-Seleziamo PC1 e dai dettagli in basso ci segniamo il suo indirizzo IPv4 privato, nel mio caso è `172.30.0.213`.
+Selezioniamo PC1 e dai dettagli in basso ci segniamo il suo indirizzo IPv4 privato, nel mio caso è `172.30.0.213`.
 
-Ora dobbiamo accedere a PC0-bastion che ci fa da ponte per il PC1. Ma per collegarci via ssh da PC0-bastion a PC1 dovremmo avere la nostra chiave su PC0-bastion, che per definizione è poco sicuro. Come facciamo a fare da ponte senza copiare la chiave?
+Ora dobbiamo accedere a PC0-bastion che ci farà da ponte per  PC1. Ma c'è un problema: per collegarci via ssh da PC0-bastion a PC1 dovremmo avere la nostra chiave su PC0-bastion, che per definizione è poco sicuro. Come facciamo a fare da ponte senza copiare la chiave?
 
 Ci viene in aiuto una funzionalità di SSH che si chiama _agent forwarding_. Con questo metodo, possiamo collegarci ad una macchina e poi da lì ad un altra, usando la stessa chiave. Nota: questo metodo funziona solo se tutti i computer usano la stessa chiave.
 
@@ -124,8 +124,8 @@ Se tornate su VPC->NAT Gateway, potete vedere il traffico che passa attraverso i
 eyJoaXN0b3J5IjpbLTg2NTkzODUzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDk1NjQ4NCwxMDE4MjEwNjIsLTIwMD
-M1Njg4MzgsLTE0MDMyMDkxNDcsLTc2Njc1NzY5NiwtMTM1MDQ0
-MzQxNiwxOTcwOTk3OTcwLC0xOTExNDk4ODczLDUzMzU2MTA1NC
-w3NjUzMTg5NDJdfQ==
+eyJoaXN0b3J5IjpbLTExODE4NDI3MjYsMTAxODIxMDYyLC0yMD
+AzNTY4ODM4LC0xNDAzMjA5MTQ3LC03NjY3NTc2OTYsLTEzNTA0
+NDM0MTYsMTk3MDk5Nzk3MCwtMTkxMTQ5ODg3Myw1MzM1NjEwNT
+QsNzY1MzE4OTQyXX0=
 -->
