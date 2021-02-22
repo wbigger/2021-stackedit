@@ -41,8 +41,13 @@ Ad esempio, se vogliamo mettere delle immagini potremmo scegliere uno dei seguen
 
 ![Mockup Graphics](./assets/mockup-graphics.png)
 
-I primi 4 per dei grafici, l'ultimo se vogliamo rappresentare una mappa, e così via. Il quadrato con la X rappresenta convenzionalmente un'immagine generica
+I primi 4 rappresentano dei grafici, l'ultimo rappresenta una mappa, e così via. Il quadrato con la X rappresenta convenzionalmente un'immagine generica.
+
+![Mockup Graphics](./assets/mockup-forms.png)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDczODgzMywxOTYzMjg1ODQ2LDIzNj
-Q1ODcyOSwtMjA2MDY3NzYxN119
+eyJoaXN0b3J5IjpbLTE5MTYzMDI4MzYsMTk2MzI4NTg0NiwyMz
+Y0NTg3MjksLTIwNjA2Nzc2MTddfQ==
 -->
