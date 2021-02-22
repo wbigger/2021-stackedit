@@ -64,7 +64,8 @@ In questo modo posso capire quante cose riescono ad entrare all'interno della pa
 ### Testi
 I testi che compaiono nel wireframe sono una parte importante del lavoro di questa fase.
 
-Se ad esempio vogliamo 
+Dobbiamo infatti deciderenno che tipo di elementi devono essere vis
+Se ad esempio stiamo realizzando una pagina con una lista di elementi, è diverso se  scriviamo "Più visitati"
 
 ## Flusso di lavoro
 Un tipico flusso di lavoro per lo sviluppo di una pagina web è il seguente:
@@ -103,7 +104,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce molto i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1Mjg5NzksLTEzNDY2MTI3ODksLTE3MT
-EyNjk0MzQsMjA5NjgwNTM5NCwxOTYzMjg1ODQ2LDIzNjQ1ODcy
-OSwtMjA2MDY3NzYxN119
+eyJoaXN0b3J5IjpbMTMyMzgzMjkwOCwtMTM0NjYxMjc4OSwtMT
+cxMTI2OTQzNCwyMDk2ODA1Mzk0LDE5NjMyODU4NDYsMjM2NDU4
+NzI5LC0yMDYwNjc3NjE3XX0=
 -->
