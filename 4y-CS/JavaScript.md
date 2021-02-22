@@ -254,9 +254,12 @@ Come abbiamo visto, modificare lo stile da JavaScript è possibile, ed in alcuni
 
 In linea generale è meglio evitare di modificare lo stile da JavaScript, perché dobbiamo ricordarci che tutto quello che riguarda l'aspetto visivo è competenza del foglio di stile `.css`. Come faccio quindi a rendere dinamico l'aspetto della pagina, ma mantenendo tutte le regole nel foglio di stile?
 
-La soluzione è quella di scrivere delle c
+La soluzione è quella di creare delle classi dedicate allo stile, scrivere le regole relative nel foglio di stile, ed aggiungere e togliere le classi in modo dinamico in JavaScript.
 
-Un modo migliore per poter gestire
+Facciamo un esempio: aggiungiamo un bottone che mi ingrandisce l'immagine.
+```html
+<button  id="enlarge">move UP</button>
+```
 
 
 
@@ -327,5 +330,5 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ2NDM4MzFdfQ==
+eyJoaXN0b3J5IjpbNzIyOTcxOTcxXX0=
 -->
