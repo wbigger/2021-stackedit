@@ -260,7 +260,7 @@ Facciamo un esempio: aggiungiamo un bottone che mi ingrandisce l'immagine.
 ```html
 <button  id="enlargeButton">enlarge</button>
 ```
-Quando
+Quando si preme questo pulsante, un certo elemento dovrà
 ```css
 
 
@@ -333,5 +333,5 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NDcwODAyXX0=
+eyJoaXN0b3J5IjpbLTE4NTIxMzQ5MjBdfQ==
 -->
