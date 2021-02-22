@@ -1,10 +1,11 @@
 # Informatica, 4 anno
 Argomenti:
 - [Introduzione a JavaScript](./4y-CS/JavaScript.md)
-- [Web Design](./4y-CS/)
+- [Wireframe](./4y-CS/Wireframe.md)
+- [Esercizio Web Design](./4y-CS/EsercizioWebDesign.md) a coppie
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNDUxMDkyXX0=
+eyJoaXN0b3J5IjpbLTEzMTcyNzcxNzddfQ==
 -->
