@@ -73,9 +73,11 @@ Per quanto riguarda il contenuto dei paragrafi, al contrario,  molto spesso non 
 ### Liste di elementi
 Anche le liste di elementi sono un aspetto importante nei wireframe. Bisogna far capire in particolare come sono ordinati gli elementi della lista: per data? per costo? per rilevanza? in ordine ascendente o discendente?
 
-Per rendere chiaro il mockup, mettete sempre degli esempi reali. Se fate un'app per pizzerie, mettete delle pizze; se siete un'app di parcheggi, mettete dei parcheggi reali. Scrivete dei valori numerici verosimili (es. costo, distanza, rilevanza, etc) ed ordinati in modo che sia chiaro qual'è il criterio di ordinamento. Cercate di mettere varie situazioni nella lista, ad esempio se alcuni elementi sono acquistabili ed altri no, mettete nella lista un elemento i ogni tipo.
+Per rendere chiaro il mockup, mettete sempre degli esempi reali. Se fate un'app per pizzerie, mettete delle pizze; se fate un'app di parcheggi, mettete dei parcheggi reali. Scrivete dei valori numerici verosimili (es. costo, distanza, rilevanza, etc) ed ordinati in modo che sia chiaro qual'è il criterio di ordinamento. Cercate di mettere varie situazioni nella lista, ad esempio se alcuni elementi sono acquistabili ed altri no, mettete nella lista un elemento di ogni tipo.
+
 
  ![Lista elementi](./assets/Parcheggi.png)
+
 
 In ogni caso non mettete **mai** qualcosa del tipo "Pizza 1", "Pizza 2", etc. che non aiuta né per gli imgombri, né per la compresione di quello che bisogna fare esattamente.
 
@@ -118,7 +120,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce molto i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzM2OTE0MywtNTc5MDg5NDM5LC0xMz
+eyJoaXN0b3J5IjpbLTcxMTA2MTQ0OSwtNTc5MDg5NDM5LC0xMz
 Q2NjEyNzg5LC0xNzExMjY5NDM0LDIwOTY4MDUzOTQsMTk2MzI4
 NTg0NiwyMzY0NTg3MjksLTIwNjA2Nzc2MTddfQ==
 -->
