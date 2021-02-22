@@ -21,10 +21,10 @@ Anche se il bozzetto su carta è una valida opzione, quando si lavora in modo un
 Noi useremo draw.io che per il contesto scolastico e personale abbiamo trovato essere il più adatto.
 
 ## Draw.io
-Draw.io, oggi anche [diagrams.net](https://www.diagrams.net/about.html), è un sito che offre uno strumento gratuito ed open-source, estensibile ed adatto a vari contesti, dai diagramma UML, agli schemi di rete, ai wireframe web. La sua diffusione ed il fatto di essere open-source e completamente basato su web, ha fatto in modo che esiste
+Draw.io, oggi anche [diagrams.net](https://www.diagrams.net/about.html), è un sito che offre uno strumento gratuito ed open-source, estensibile ed adatto a vari contesti, dai diagramma UML, agli schemi di rete, ai wireframe web. La sua diffusione ed il fatto di essere open-source e completamente basato su web, ha fatto in modo che esistano moltissimi plugin di integrazione con tanti altri servizi, come ad esempio [VSCode](https://www.diagrams.net/blog/embed-diagrams-vscode).
 
-Andando sul sito di draw.io per la prima volta, vi chiederà
+Andando sul sito di draw.io per la prima volta, vi chiederà il 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODUwNTY5XX0=
+eyJoaXN0b3J5IjpbODIzNzM3NTMyXX0=
 -->
