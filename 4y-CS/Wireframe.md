@@ -74,7 +74,8 @@ Prendiamo la pagina del portale interno del marconi:
 ![Visual marconicloud](./assets/marconicloud.png)
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDYzMDEyMTIsMTk2MzI4NTg0NiwyMz
-Y0NTg3MjksLTIwNjA2Nzc2MTddfQ==
+eyJoaXN0b3J5IjpbMjA5NjgwNTM5NCwxOTYzMjg1ODQ2LDIzNj
+Q1ODcyOSwtMjA2MDY3NzYxN119
 -->
