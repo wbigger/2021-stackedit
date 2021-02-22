@@ -35,8 +35,10 @@ Per poter usare gli strumenti di wireframe per il web, dovete aggiungere un po' 
 Bene, ora siete pronti per sviluppare!
 
 ## Elementi di un wireframe
-Gli elementi del wireframe sono standardizzati e servono per far capire 
+Gli elementi del wireframe sono standardizzati e servono per far capire che tipo di elemento deve andare in un certo punto.
+
+Ad esempio, se vogliamo mettere una immagine 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA2Nzc2MTddfQ==
+eyJoaXN0b3J5IjpbMjM2NDU4NzI5LC0yMDYwNjc3NjE3XX0=
 -->
