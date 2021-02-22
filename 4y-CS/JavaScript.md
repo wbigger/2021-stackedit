@@ -250,7 +250,10 @@ $("#moveUp").css("top","50%");
 In questo modo abbiamo impostato il valore `top` dell'elemento con id `#moveUp` al 50%.
 
 ## Modifica dello stile con JavaScript+CSS
-Come abbiamo visto, modificare lo stile da JavaScript è possibile, ma in linea generale è meglio evitarlo: dobbiamo ricordarci che tutto quello che riguarda l'aspetto visivo è competenza del foglio di stile `.css`, quindi 
+Come abbiamo visto, modificare lo stile da JavaScript è possibile, ed in alcuni casi non è possibile evitarlo: ad esempio se dobbiamo cambiare ad ogni pressione del tasto il valore di `top`.
+
+In linea generale è meglio evitare di modificar: dobbiamo ricordarci che tutto quello che riguarda l'aspetto visivo è competenza del foglio di stile `.css`, quindi 
+
 Un modo migliore per poter gestire
 
 
@@ -322,5 +325,5 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkxMTgxMTddfQ==
+eyJoaXN0b3J5IjpbMTE2MzI2MTU3N119
 -->
