@@ -13,7 +13,10 @@ Durante la prima fase della bozza, dobbiamo concentrarci solo sugli elementi che
 
 Questo tipo di progettazione si chiama "wireframe" (si può tradurre con "modello in fil di ferro"), perché generalmente rappresenta gli oggetti in modo stilizzato solo con il loro bordo esterno.
 
-Esistono tanti siti che
+Anche se il bozzetto su carta è una valida opzione, quando si lavora in modo un po' strutturato è bene avere una versione digitale del wireframe. Esistono molti programmi che permettono di fare wireframe, a vari livelli, qui ne cito alcuni dei più comuni:
+- wireframe.cc, interamente online, versione base gratuita
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Njc5MzIzMV19
+eyJoaXN0b3J5IjpbLTQxOTcxNjM4M119
 -->
