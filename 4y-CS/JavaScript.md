@@ -249,6 +249,10 @@ $("#moveUp").css("top","50%");
 
 In questo modo abbiamo impostato il valore `top` dell'elemento con id `#moveUp` al 50%.
 
+## Modifica dello stile con JavaScript+CSS
+TODO
+
+
 
 <style>
 .centered {
@@ -317,5 +321,5 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODI1NDQwM119
+eyJoaXN0b3J5IjpbMTMwOTI2MTk4MV19
 -->
