@@ -80,8 +80,10 @@ Analizziamo alcune cose significative:
 - le immagini sono state tutte sostituite con dei box
 - ci sono delle note per specificare alcune immagini significative
 - le icone di ricerca, per il login e per il menù sono state scelte dalla libreria di draw.io
-- Tutti i testi che compaiono nel wireframe sono quelli reali della pagina
+- i testi che compaiono nel wireframe sono quelli reali della pagina
+
+Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perchee 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM2NzU5OCwyMDk2ODA1Mzk0LDE5Nj
+eyJoaXN0b3J5IjpbMTcwNTQwNTE0NiwyMDk2ODA1Mzk0LDE5Nj
 MyODU4NDYsMjM2NDU4NzI5LC0yMDYwNjc3NjE3XX0=
 -->
