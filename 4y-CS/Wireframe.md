@@ -37,11 +37,12 @@ Bene, ora siete pronti per sviluppare!
 ## Elementi di un wireframe
 Gli elementi del wireframe sono standardizzati e servono per far capire che tipo di elemento deve andare in un certo punto.
 
-Ad esempio, se vogliamo mettere una immagine 
+Ad esempio, se vogliamo mettere delle immagini potremmo scegliere uno dei seguenti elementi:
 
 ![Mockup Graphics](./assets/mockup-graphics.png)
 
+I primi 4 per dei grafici, l'ultimo se vogliamo rappresentare una mappa, e così via. Il quadrato con la X rappresenta convenzionalmente un'immagine generica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzI4NTg0NiwyMzY0NTg3MjksLTIwNj
-A2Nzc2MTddfQ==
+eyJoaXN0b3J5IjpbMTE3NDczODgzMywxOTYzMjg1ODQ2LDIzNj
+Q1ODcyOSwtMjA2MDY3NzYxN119
 -->
