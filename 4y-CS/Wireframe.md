@@ -32,7 +32,7 @@ Draw.io (disponibile anche su [diagrams.net](https://www.diagrams.net/about.html
 > - evitare problemi di privacy
 > - evitare problemi di perdita dati con relative possibili conseguenze legali o di immagine
 
-Andando sul sito di draw.io per la prima volta, vi chiederà quindi dove salvare i vostri file. Per ora potete premere in basso "decide later".
+Andando sul sito di draw.io per la prima volta, vi chiederà dove salvare i vostri file. Per ora potete premere in basso "decide later".
 
 Per poter usare gli strumenti di wireframe per il web, dovete aggiungere un po' di forme. Cliccate in basso a sinistra su "More shapes...", quindi selezionate "Android", "iOS" e "Mockups".
 
@@ -45,14 +45,15 @@ Ad esempio, se vogliamo mettere delle immagini potremmo scegliere uno dei seguen
 
 ![Mockup Graphics](./assets/mockup-graphics.png)
 
-I primi 4 rappresentano dei grafici, l'ultimo rappresenta una mappa, e così via. Il quadrato con la X rappresenta convenzionalmente un'immagine generica.
+I primi 4 rappresentano dei grafici, l'ultimo rappresenta una mappa, e così via. Il quadrato con la X (detto anche "box", scatola) rappresenta convenzionalmente un'immagine generica.
 
 Per gli elementi di interazione, c'è la categoria "forms":
 ![Mockup Forms](./assets/mockup-forms.png)
 
-Questi elementi coprono praticamente tutti i tipi di interazione che si ha con le pagine web: checkbox, radio button, menu a tendina, selettori, slider, barra di ricerca, calendario, testo di input, etc.
+Questi elementi coprono praticamente tutti i tipi di interazione che si hanno con le pagine web: checkbox, radio button, menu a tendina, selettori, slider, barra di ricerca, calendario, casella di input, etc.
 
-Per avere il contenitore dove mettere i vari elementi, se vogliamo una pagina web da browser, possiamo andare su Mockup Containers->Browser Window. Se vogliamo invece una pagina web in un dispositivo mobile, possiamo andare nelle categorie "Android" oppure "iOS UI".
+Per avere il contenitore dove mettere i vari elementi, possiamo scegliere:
+- se vogliamo una pagina web da browser, possiamo andare su Mockup Containers->Browser Window. Se vogliamo invece una pagina web in un dispositivo mobile, possiamo andare nelle categorie "Android" oppure "iOS UI".
 
 ### Ingombri
 Fate attenzione agli "ingombri" quando disegnate il wireframe: lo spazio occupato sulla pagina da un certo elemento deve corrispondere più o meno a quello nella pagina finale.
@@ -95,7 +96,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzEzODcyNCwtMTM0NjYxMjc4OSwtMT
+eyJoaXN0b3J5IjpbLTY1NjAxNjI5NiwtMTM0NjYxMjc4OSwtMT
 cxMTI2OTQzNCwyMDk2ODA1Mzk0LDE5NjMyODU4NDYsMjM2NDU4
 NzI5LC0yMDYwNjc3NjE3XX0=
 -->
