@@ -303,10 +303,12 @@ Facciamo un esempio: aggiungiamo un bottone che mi ingrandisce l'immagine.
 <button  id="enlargeButton">enlarge</button>
 ```
 
-Quando si preme questo pulsante, un certo elemento dovrà
+Quando si preme questo pulsante, l'immagine dovrà ingrandirsi. Scrivo una regola CSS per questo.
 ```css
+TODO{}
 ```
-
+Collego il bottone ad una funzione che mi aggiunge la classe:
+ 
 
 
 
@@ -377,7 +379,7 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3ODg2MTQzLDIxNjYyNTU2OCwtMTQzMD
-A1MDQxMyw5MjUxMDM4ODcsMTg5NTE2Njk3OCwyMzA2MDkwNjVd
-fQ==
+eyJoaXN0b3J5IjpbLTIwMDg5NDA1NiwyMTY2MjU1NjgsLTE0Mz
+AwNTA0MTMsOTI1MTAzODg3LDE4OTUxNjY5NzgsMjMwNjA5MDY1
+XX0=
 -->
