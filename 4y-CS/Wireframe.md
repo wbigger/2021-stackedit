@@ -50,8 +50,15 @@ Questi elementi coprono praticamente tutti i tipi di interazione che si ha con l
 
 Per avere il contenitore dove mettere i vari elementi, se vogliamo una pagina web da browser, possiamo andare su Mockup Containers->Browser Window. Se vogliamo invece una pagina web in un dispositivo mobile, possiamo andare nelle categorie "Android" oppure "iOS UI".
 
-## Flusso di 
-Il flusso di lavoro 
+## Flusso di lavoro
+Il flusso di lavoro per lo sviluppo di una pagina web è quindi il seguente:
+
+1. brief
+2. wireframe
+3. visual
+4. implementazione html
+
+Il visual è la versione del wireframe con tutti i colori e le immagini al loro posto. Si può sviluppare o con lo stesso software di wireframe, se lo permette (draw.io non lo permette, ma ad esempio Sketch sì), ma
 Per fare un esempio di come 
 
 
@@ -59,8 +66,8 @@ Per fare un esempio di come
 
 
 
-
+## Esempio: marconicloud.it
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2Njk1MDA4LDE5NjMyODU4NDYsMjM2ND
-U4NzI5LC0yMDYwNjc3NjE3XX0=
+eyJoaXN0b3J5IjpbLTQ5NDYzNzMxMSwxOTYzMjg1ODQ2LDIzNj
+Q1ODcyOSwtMjA2MDY3NzYxN119
 -->
