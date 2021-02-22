@@ -39,6 +39,9 @@ Gli elementi del wireframe sono standardizzati e servono per far capire che tipo
 
 Ad esempio, se vogliamo mettere una immagine 
 
+![Mockup Graphics](./assets/mockup-graphics.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NDU4NzI5LC0yMDYwNjc3NjE3XX0=
+eyJoaXN0b3J5IjpbMTk2MzI4NTg0NiwyMzY0NTg3MjksLTIwNj
+A2Nzc2MTddfQ==
 -->
