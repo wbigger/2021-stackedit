@@ -16,15 +16,15 @@ Questo tipo di progettazione si chiama "wireframe" (si può tradurre con "modell
 Anche se il bozzetto su carta è una valida opzione, quando si lavora in modo un po' strutturato è bene avere una versione digitale del wireframe. Esistono molti programmi che permettono di fare wireframe, a vari livelli, qui ne cito alcuni dei più comuni:
 - wireframe.cc, interamente online, versione base gratuita
 - [sketch.com](https://www.sketch.com/), uno dei tool più professionali, ha anche una versione gratuita di prova
-- draw.io, interamente gratuito con funzioni anche avanzate di disegno, per vari settori
+- draw.io, open source e interamente gratuito con funzioni anche avanzate di disegno, per vari settori
 
 Noi useremo draw.io che per il contesto scolastico e personale abbiamo trovato essere il più adatto.
 
 ## Draw.io
-Draw
+Draw.io, oggi anche [diagrams.net](https://www.diagrams.net/about.html), è un sito che offre uno strumento gratuito ed open-source, estensibile ed adatto a vari contesti, dai diagramma UML, agli schemi di rete, ai wireframe web. La sua diffusione ed il fatto di essere open-source e completamente basato su web, ha fatto in modo che esiste
 
 Andando sul sito di draw.io per la prima volta, vi chiederà
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjU5NzQ4MV19
+eyJoaXN0b3J5IjpbMTU5ODUwNTY5XX0=
 -->
