@@ -65,16 +65,16 @@ In questo modo posso capire quante cose riescono ad entrare all'interno della pa
 Un tipico flusso di lavoro per lo sviluppo di una pagina web è il seguente:
 
 1. brief, testuale, descrive in generale cosa deve fare il progetto
-2. wireframe, con un
-3. visual
-4. implementazione html
+2. wireframe, definisce i componenti da usare e come disporli
+3. visual, definisce colori, immagini, font, etc.
+4. implementazione HTML
 
 Il visual è la versione del wireframe con tutti i colori e le immagini al loro posto. Si può sviluppare o con lo stesso software di wireframe, se lo permette (draw.io non lo permette, ma ad esempio Sketch sì), oppure con strumenti tipo Photoshop e simili. L'output del visual è qualcosa che assomiglia molto ad uno screenshot di come dovrà apparire la pagina.
 
-Noi la fase visual la salteremo perché richiederebbe troppo tempo e delle competenze grafiche che normalmente non sono richieste agli studenti del tecnico. In ogni caso gli appassionati possono provare ad inserire anche questa fase!
+Noi la fase visual la salteremo perché richiederebbe troppo tempo e delle competenze grafiche che normalmente non sono richieste agli studenti del tecnico. In ogni caso gli appassionati possono provare a cimentarsi anche in questa fase!
 
 
-## Esempio: marconicloud.it
+## Esempio pratico: marconicloud.it
 
 Proviamo adesso a fare un esempio pratico.
 
@@ -97,7 +97,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTgwMjkzOSwtMTM0NjYxMjc4OSwtMT
-cxMTI2OTQzNCwyMDk2ODA1Mzk0LDE5NjMyODU4NDYsMjM2NDU4
-NzI5LC0yMDYwNjc3NjE3XX0=
+eyJoaXN0b3J5IjpbLTEyMTY0NjQ5NDAsLTEzNDY2MTI3ODksLT
+E3MTEyNjk0MzQsMjA5NjgwNTM5NCwxOTYzMjg1ODQ2LDIzNjQ1
+ODcyOSwtMjA2MDY3NzYxN119
 -->
