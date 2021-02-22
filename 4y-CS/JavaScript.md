@@ -341,10 +341,6 @@ table {
 	font-size: large;
 }
 
-img {
-  width: 20%;
-}
-
 img.right_side {
   float: right;
   margin:5px 5px 0px 20px;
@@ -392,7 +388,7 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI5NDAzODUsMjE2NjI1NTY4LC0xND
-MwMDUwNDEzLDkyNTEwMzg4NywxODk1MTY2OTc4LDIzMDYwOTA2
-NV19
+eyJoaXN0b3J5IjpbMTIxMDgwMTM1MCwtMTAwMjk0MDM4NSwyMT
+Y2MjU1NjgsLTE0MzAwNTA0MTMsOTI1MTAzODg3LDE4OTUxNjY5
+NzgsMjMwNjA5MDY1XX0=
 -->
