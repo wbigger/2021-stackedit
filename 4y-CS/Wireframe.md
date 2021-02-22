@@ -53,10 +53,11 @@ Per gli elementi di interazione, c'è la categoria "forms":
 Questi elementi coprono praticamente tutti i tipi di interazione che si hanno con le pagine web: checkbox, radio button, menu a tendina, selettori, slider, barra di ricerca, calendario, casella di input, etc.
 
 Per avere il contenitore dove mettere i vari elementi, possiamo scegliere:
-- se vogliamo una pagina web da browser, possiamo andare su Mockup Containers->Browser Window. Se vogliamo invece una pagina web in un dispositivo mobile, possiamo andare nelle categorie "Android" oppure "iOS UI".
+- se vogliamo una pagina web da browser, andiamo su Mockup Containers->Browser Window
+- se vogliamo una pagina web in un dispositivo mobile, andiamo nelle categorie "Android" oppure "iOS UI" e selezioniamo il mockup desiderato
 
 ### Ingombri
-Fate attenzione agli "ingombri" quando disegnate il wireframe: lo spazio occupato sulla pagina da un certo elemento deve corrispondere più o meno a quello nella pagina finale.
+Selezionare il corretto contenitore per la pagine web è importante perché bisogna fare molta attenzione agli "ingombri" quando disegnate il wireframe: lo spazio occupato sulla pagina da un certo elemento deve corrispondere a quello nella pagina finale.
 
 Questo è importante perché così posso capire quante cose riescono ad entrare all'interno della pagina e quante ne rimangono fuori, in modo da poter togliere o cambiare alcuni elementi grafici per fare in modo che la pagina sia facilmente fruibile, soprattutto in ambiente mobile in cui gli schermi sono più piccoli.
 
@@ -96,7 +97,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjAxNjI5NiwtMTM0NjYxMjc4OSwtMT
-cxMTI2OTQzNCwyMDk2ODA1Mzk0LDE5NjMyODU4NDYsMjM2NDU4
-NzI5LC0yMDYwNjc3NjE3XX0=
+eyJoaXN0b3J5IjpbLTE4Mzk1MTQ5ODEsLTEzNDY2MTI3ODksLT
+E3MTEyNjk0MzQsMjA5NjgwNTM5NCwxOTYzMjg1ODQ2LDIzNjQ1
+ODcyOSwtMjA2MDY3NzYxN119
 -->
