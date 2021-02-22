@@ -75,7 +75,11 @@ Prendiamo la pagina del portale interno del marconi:
 
 Il wireframe potrebbe essere:
 <iframe frameborder="0" style="width:100%;height:533px;" src="https://viewer.diagrams.net/?highlight=0000ff&nav=1&title=Primo%20diagramma.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwbigger%2F2021-informatica-html5%2Fmain%2FPrimo%2520diagramma.drawio"></iframe>
+
+Analizziamo alcune cose significative:
+- le immagini sono state tutte sostituite con dei box
+- ci sono del
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI5MDQyNTEsMjA5NjgwNTM5NCwxOT
-YzMjg1ODQ2LDIzNjQ1ODcyOSwtMjA2MDY3NzYxN119
+eyJoaXN0b3J5IjpbMTY3NjA2ODQzOSwyMDk2ODA1Mzk0LDE5Nj
+MyODU4NDYsMjM2NDU4NzI5LC0yMDYwNjc3NjE3XX0=
 -->
