@@ -43,11 +43,16 @@ Ad esempio, se vogliamo mettere delle immagini potremmo scegliere uno dei seguen
 
 I primi 4 rappresentano dei grafici, l'ultimo rappresenta una mappa, e così via. Il quadrato con la X rappresenta convenzionalmente un'immagine generica.
 
+Per gli elementi di interazione, c'è la categoria "forms":
 ![Mockup Graphics](./assets/mockup-forms.png)
+
+Questi elementi coprono praticamente tutti i tipi di interazione che si ha con le pagine web, nell'ordine: checkbox, 
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTYzMDI4MzYsMTk2MzI4NTg0NiwyMz
+eyJoaXN0b3J5IjpbLTEzODk5NTcxODksMTk2MzI4NTg0NiwyMz
 Y0NTg3MjksLTIwNjA2Nzc2MTddfQ==
 -->
