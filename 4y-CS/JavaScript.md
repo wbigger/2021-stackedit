@@ -317,11 +317,11 @@ function enlarge() {
 	$("#lamaImg").addClass("enlarged");
 }
 let init = function() {
-	$("#lamaImg").on(click;
+	$("#enlargeButton").on("click",enlarge);
 }
 ```
  
- Se volessi togliere una classe, posso usare `.removeClass()`.
+ Se volessi togliere una classe, posso usare analogamente `.removeClass()`.
  
 
 
@@ -393,7 +393,7 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDMzNTk0NiwyMTY2MjU1NjgsLTE0Mz
-AwNTA0MTMsOTI1MTAzODg3LDE4OTUxNjY5NzgsMjMwNjA5MDY1
-XX0=
+eyJoaXN0b3J5IjpbLTE5MTM5MTgzOTcsMjE2NjI1NTY4LC0xND
+MwMDUwNDEzLDkyNTEwMzg4NywxODk1MTY2OTc4LDIzMDYwOTA2
+NV19
 -->
