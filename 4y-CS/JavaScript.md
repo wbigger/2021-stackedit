@@ -265,23 +265,29 @@ let topValue = parseInt($("#lamaImage").css("top"));
 ```
 
 
-Se vogliamo invece scrivere una proprietà, dobbiamo chiamare la stessa funzione con due argomenti:
+Se vogliamo invece scrivere una proprietà, dobbiamo chiamare la stessa funzione `.css()` con due argomenti:
 ```javascript
-$("#lamaImage").css("top", topValue + "%");
+$("#lamaImage").css("top", topValue);
 ```
-Attenzione al percento alla fine: gli sto dicendo 
 
+Nel complesso il nostro file JavaScript sarà come segue:
 
 ```js
-let topValue = 50;
 let moveUp = function () {
-	console.log("Sposto il lama in alto");
-	topValue -= 5;
-	$("#lamaImage").css("top", topValue + "%");
+
+let topValue = parseInt($("#lamaImage").css("top"));
+
+let newTopValue = topValue-10;
+
+console.log(`Sposto il lama in alto (top value: ${topValue} -> ${newTopValue})`);
+
+	$("#lamaImage").css("top", newTopValue);
 };
+
 let init = function () {
 	$("#moveUp").on("click", moveUp);
 };
+  
 $(document).ready(init);
 ```
 
@@ -376,6 +382,6 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk0MDMyOTQsLTE0MzAwNTA0MTMsOT
-I1MTAzODg3LDE4OTUxNjY5NzgsMjMwNjA5MDY1XX0=
+eyJoaXN0b3J5IjpbMTQ5MTQ0ODk4MiwtMTQzMDA1MDQxMyw5Mj
+UxMDM4ODcsMTg5NTE2Njk3OCwyMzA2MDkwNjVdfQ==
 -->
