@@ -58,17 +58,17 @@ Il flusso di lavoro per lo sviluppo di una pagina web è quindi il seguente:
 3. visual
 4. implementazione html
 
-Il visual è la versione del wireframe con tutti i colori e le immagini al loro posto. Si può sviluppare o con lo stesso software di wireframe, se lo permette (draw.io non lo permette, ma ad esempio Sketch sì), oppure con strumenti tipo Photoshop e simili.
+Il visual è la versione del wireframe con tutti i colori e le immagini al loro posto. Si può sviluppare o con lo stesso software di wireframe, se lo permette (draw.io non lo permette, ma ad esempio Sketch sì), oppure con strumenti tipo Photoshop e simili. L'output del visual è qualcosa che assomiglia molto ad uno screenshot di come dovrà apparire la pagina.
 
-Noi la fase visual la salteremo perché richiederebbe troppo tempo e delle competenze grafiche che normalmente non sono richieste agli studenti del tecnico. In ogni caso, per gli appassionati, potete proga
-
-
-
-
+Noi la fase visual la salteremo perché richiederebbe troppo tempo e delle competenze grafiche che normalmente non sono richieste agli studenti del tecnico. In ogni caso gli appassionati possono provare ad inserire anche questa fase!
 
 
 ## Esempio: marconicloud.it
+
+Proviamo adesso a fare un esempio pratico.
+
+Come abbiamo detto, normalmente dovremmo prima disegnare il wireframe e poi da lì il visual ed implementare la pagina. Ma per eserciz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzUyNzc3NiwxOTYzMjg1ODQ2LDIzNj
+eyJoaXN0b3J5IjpbMjA2NjM3MTUzMSwxOTYzMjg1ODQ2LDIzNj
 Q1ODcyOSwtMjA2MDY3NzYxN119
 -->
