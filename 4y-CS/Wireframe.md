@@ -46,13 +46,15 @@ I primi 4 rappresentano dei grafici, l'ultimo rappresenta una mappa, e così via
 Per gli elementi di interazione, c'è la categoria "forms":
 ![Mockup Graphics](./assets/mockup-forms.png)
 
-Questi elementi coprono praticamente tutti i tipi di interazione che si ha con le pagine web, nell'ordine: checkbox, 
+Questi elementi coprono praticamente tutti i tipi di interazione che si ha con le pagine web: checkbox, radio button, menu a tendina, selettori, slider, barra di ricerca, calendario, testo di input, etc.
+
+Per avere il contenitore dove mettere i vari elementi, se vogliamo una pagina web da browser, possiamo andare su Mockup Containers->
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk5NTcxODksMTk2MzI4NTg0NiwyMz
-Y0NTg3MjksLTIwNjA2Nzc2MTddfQ==
+eyJoaXN0b3J5IjpbLTMzNzMwODk0NCwxOTYzMjg1ODQ2LDIzNj
+Q1ODcyOSwtMjA2MDY3NzYxN119
 -->
