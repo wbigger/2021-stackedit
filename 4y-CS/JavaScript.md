@@ -257,9 +257,13 @@ Il nostro codice sarà, prendendo ad esempio l'immagine di un lama:
 
 Per leggere il valore di una proprietà, ad esempio il valore di `top` dell'elemento con id "moveUp", possiamo scrivere:
 ```javascript
-let topPixels = $("#lamaImage").css("top");
+let topValue = $("#lamaImage").css("top");
 ```
-Da notare che il valore delle posizioni vengono sempre ritornate in pixels, con la desinenza `px`. Per poter leggere il valore intero, possiamo
+Da notare che il valore delle posizioni vengono sempre ritornate in pixels, con la desinenza `px`. Per poter leggere il valore intero, possiamo fare il parsing:
+```javascript
+let topValue = parseInt($("#lamaImage").css("top"));
+```
+
 
 Se vogliamo invece scrivere una proprietà, dobbiamo chiamare la stessa funzione con due argomenti:
 ```javascript
@@ -372,6 +376,6 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTAxMzUyOSwtMTQzMDA1MDQxMyw5Mj
-UxMDM4ODcsMTg5NTE2Njk3OCwyMzA2MDkwNjVdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzk0MDMyOTQsLTE0MzAwNTA0MTMsOT
+I1MTAzODg3LDE4OTUxNjY5NzgsMjMwNjA5MDY1XX0=
 -->
