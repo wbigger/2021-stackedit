@@ -237,7 +237,7 @@ La lista è lunghissima, l'elenco completo lo trovate [qui](https://www.w3school
 ## Modifica dello stile da JavaScript
 Immaginiamo di avere una immagine e volerla muovere con dei tasti.
 
-Questo è il wireframe della pagina:
+[Questo](https://app.diagrams.net/?title=lama.drawio#RzZZdk5owFIZ%2FjZdlIPHzcnW1dVo7Tm1rb2M4SGYDYUIUt7%2B%2BCYQvwXa3M7aLM0rek5yEPO%2BJDPAiuryXJAk3wgc%2BQK5%2FGeDHAUKz4Vh%2FG%2BG5EMalcJTMLySvFnbsJ1jRteqJ%2BZC2OiohuGJJW6QijoGqlkakFFm7WyB4e9aEHKEj7CjhXXXPfBUW6nTk1voHYMewnNlzbSQiZWcrpCHxRdaQ8HKAF1IIVdxFlwVws3flvhTjVjei1cIkxOolA7Zs8%2FHHck%2BHeO2t1p9DWH8%2FvLNZzoSf7APbxarncgdSJcVT9fDeAM%2BrJ3F1wydpCL5tEM6Osb6nek0gtRCqiNejEpMyuhyNU5xI0KdT4mhwirAYZOocDC6Qexbn6efS2sFkLlaxEFzIfFl4nF%2FtCCpCrjulQdAO4SJEh%2BajQ5Ge8ytcip1bmMmAnmTKzvAF0npauz0gFVxu7rtX0dRVACICJZ91l3IAtgawFTCzzay206i0U9iwEp5akVgLH6vUNWV9Y0G%2FAjrqQN%2BaKkCu9x%2Fhk5iGhu080JoF701su497OR2HQL2U1O0auIlv3KbnoQ49z%2Buhh8Z3goc78EKlzGH4YPKiVZZlji9J5jDxFmg2a%2FiNkb0uzHG3MFFfYd4N7bCDdiPOpi6%2FJf8a5eGklIhT%2B%2Fvb8%2FeKYpBfVycsnheJdvYBpDjF%2Fg1HlH3M6gLGeSN3dbBnIVOwSwg1HTO98Dva5MollWsaNpn1Hd%2F3Or1Hf%2F7LNpvA9DvMJ3IAvhUpU8xAfDwIDSH6a6%2BUaR9sHyWSyhlXTuzzVN5gNHVSFiUc1rTfWLP8uiNQhCfOqMUUuV2mk1GX6eT1THWzfsXLY433ZLz8BQ%3D%3D) è il wireframe della pagina:
 
 È possibile cambiare lo stile in modo programmatico da JavaScript.
 
@@ -337,5 +337,5 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNjA5MDY1XX0=
+eyJoaXN0b3J5IjpbMTQzMTgwMzQ5NCwyMzA2MDkwNjVdfQ==
 -->
