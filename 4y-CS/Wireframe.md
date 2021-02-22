@@ -21,10 +21,10 @@ Anche se il bozzetto su carta è una valida opzione, quando si lavora in modo un
 Noi useremo draw.io che per il contesto scolastico e personale abbiamo trovato essere il più adatto.
 
 ## Draw.io
-
+Draw
 
 Andando sul sito di draw.io per la prima volta, vi chiederà
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNDcxNjg1XX0=
+eyJoaXN0b3J5IjpbMTg5NjU5NzQ4MV19
 -->
