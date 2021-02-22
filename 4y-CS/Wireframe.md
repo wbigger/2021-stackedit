@@ -22,12 +22,15 @@ Anche se il bozzetto su carta è una valida opzione, quando si lavora in modo un
 Noi useremo draw.io che per il contesto scolastico e personale abbiamo trovato essere il più adatto.
 
 ## Draw.io
-Draw.io (disponibile anche su[diagrams.net](https://www.diagrams.net/about.html)), è un sito che offre uno strumento gratuito ed open-source, estensibile ed adatto a vari contesti, dai diagramma UML, agli schemi di rete, ai wireframe web. La sua diffusione ed il fatto di essere open-source e completamente basato su web, ha fatto in modo che esistano moltissimi plugin di integrazione con tanti altri servizi, come ad esempio [VSCode](https://www.diagrams.net/blog/embed-diagrams-vscode).
+Draw.io (disponibile anche su [diagrams.net](https://www.diagrams.net/about.html)), è un servizio che offre uno strumento gratuito ed open-source, estensibile ed adatto a vari contesti, dai diagramma UML, agli schemi di rete, ai wireframe web. La sua diffusione ed il fatto di essere open-source ha fatto in modo che esistano moltissimi plugin di integrazione con tanti altri servizi, come ad esempio [VSCode](https://www.diagrams.net/blog/embed-diagrams-vscode).
 
-Come altri servizi open-source, il salvataggio dei dati avviene o salvando un file sul computer dell'utente o con servizi di storage di terze parti, come ad esempio Google Drive  o GitHub. Questo essenzialmente per due motivi:
-- lo storage dei file è una delle parti più costose di un progetto web, spesso i progetto open-source non possono permetterselo
-- evitare problemi di privacy
-- evitare problemi di perdita dati con relative possibili conseguenze legali o di immagine
+> Come altri servizi open-source, il salvataggio dei dati avviene o
+> salvando un file sul computer dell'utente o con servizi di storage di
+> terze parti, come ad esempio Google Drive  o GitHub. Questo
+> essenzialmente per due motivi:
+> - lo storage dei file è una delle parti più costose di un progetto web, spesso i progetto open-source non possono permetterselo
+> - evitare problemi di privacy
+> - evitare problemi di perdita dati con relative possibili conseguenze legali o di immagine
 
 Andando sul sito di draw.io per la prima volta, vi chiederà quindi dove salvare i vostri file. Per ora potete premere in basso "decide later".
 
@@ -92,7 +95,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzU2MzU2NSwtMTM0NjYxMjc4OSwtMT
+eyJoaXN0b3J5IjpbMTQxMzEzODcyNCwtMTM0NjYxMjc4OSwtMT
 cxMTI2OTQzNCwyMDk2ODA1Mzk0LDE5NjMyODU4NDYsMjM2NDU4
 NzI5LC0yMDYwNjc3NjE3XX0=
 -->
