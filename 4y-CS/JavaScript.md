@@ -259,7 +259,7 @@ Per leggere il valore di una proprietà, ad esempio il valore di `top` dell'elem
 ```javascript
 let topPixels = $("#lamaImage").css("top");
 ```
-> Da notare che il valore delle posizioni vengono sempre ritornate in pixels.
+Da notare che il valore delle posizioni vengono sempre ritornate in pixels, con la desinenza `px`. Per poter leggere il valore intero, possiamo
 
 Se vogliamo invece scrivere una proprietà, dobbiamo chiamare la stessa funzione con due argomenti:
 ```javascript
@@ -372,6 +372,6 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAwNTA0MTMsOTI1MTAzODg3LDE4OT
-UxNjY5NzgsMjMwNjA5MDY1XX0=
+eyJoaXN0b3J5IjpbLTI2OTAxMzUyOSwtMTQzMDA1MDQxMyw5Mj
+UxMDM4ODcsMTg5NTE2Njk3OCwyMzA2MDkwNjVdfQ==
 -->
