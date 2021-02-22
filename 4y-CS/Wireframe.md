@@ -78,8 +78,10 @@ Il wireframe potrebbe essere:
 
 Analizziamo alcune cose significative:
 - le immagini sono state tutte sostituite con dei box
-- ci sono del
+- ci sono delle note per specificare alcune immagini significative
+- le icone di ricerca, per il login e per il menù sono state scelte dalla libreria di draw.io
+- Tutti i testi che compaiono nel wireframe sono quelli reali della pagina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjA2ODQzOSwyMDk2ODA1Mzk0LDE5Nj
+eyJoaXN0b3J5IjpbLTEwMDM2NzU5OCwyMDk2ODA1Mzk0LDE5Nj
 MyODU4NDYsMjM2NDU4NzI5LC0yMDYwNjc3NjE3XX0=
 -->
