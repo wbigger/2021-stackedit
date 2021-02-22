@@ -30,8 +30,13 @@ Come altri servizi open-source, il salvataggio dei dati avviene o salvando un fi
 
 Andando sul sito di draw.io per la prima volta, vi chiederà quindi dove salvare i vostri file. Per ora potete premere in basso "decide later".
 
-Per poter usare gli strumenti di wireframe per il web, dovete aggiungere un po' di forme. Cliccate in basso a sinistra su "More shapes...", quindi selezionate
+Per poter usare gli strumenti di wireframe per il web, dovete aggiungere un po' di forme. Cliccate in basso a sinistra su "More shapes...", quindi selezionate "Android", "iOS" e "Mockups".
+
+Bene, ora siete pronti per sviluppare!
+
+## Elementi di un wireframe
+Gli elementi del wireframe sono standardizzati e servono per far capire 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTU5NTQzMjRdfQ==
+eyJoaXN0b3J5IjpbLTIwNjA2Nzc2MTddfQ==
 -->
