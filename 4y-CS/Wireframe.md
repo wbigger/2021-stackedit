@@ -11,13 +11,9 @@ Fare una pagina web senza prima una bozza è come costruire una casa senza prima
 
 Durante la prima fase della bozza, dobbiamo concentrarci solo sugli elementi che vogliamo visualizzare, la loro disposizione nella pagina e descrivere il comportamento voluto. Non vogliamo distrarci con colori, font ed altre cose che entreranno in gioco in un momento successivo.
 
-Questo tipo di progettazione si chiama 
+Questo tipo di progettazione si chiama "wireframe" (si può tradurre con "modello in fil di ferro"), perché generalmente rappresenta gli oggetti in modo stilizzato solo con il loro bordo esterno.
 
-- uso di draw.io
-- esempio
-
-
-> Written with [StackEdit](https://stackedit.io/).
+Esistono tanti siti che
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MTcyMTQxXX0=
+eyJoaXN0b3J5IjpbLTk0Njc5MzIzMV19
 -->
