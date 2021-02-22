@@ -81,9 +81,11 @@ Analizziamo alcune cose significative:
 - ci sono delle note per specificare alcune immagini significative
 - le icone di ricerca, per il login e per il menù sono state scelte dalla libreria di draw.io
 - i testi che compaiono nel wireframe sono quelli reali della pagina
+- gli "ingombri" devono ess
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTEyNjk0MzQsMjA5NjgwNTM5NCwxOT
-YzMjg1ODQ2LDIzNjQ1ODcyOSwtMjA2MDY3NzYxN119
+eyJoaXN0b3J5IjpbLTYxMDg1MTg0LC0xNzExMjY5NDM0LDIwOT
+Y4MDUzOTQsMTk2MzI4NTg0NiwyMzY0NTg3MjksLTIwNjA2Nzc2
+MTddfQ==
 -->
