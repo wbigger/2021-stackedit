@@ -15,15 +15,14 @@ Questo tipo di progettazione solo concettuale si chiama "wireframe" (si può tra
 
 Anche se il bozzetto su carta è una valida opzione, quando si lavora in modo un po' strutturato è bene avere una versione digitale del wireframe. Esistono molti programmi a questo scopo, a vari livelli, qui ne cito alcuni dei più comuni:
 - wireframe.cc, solo per i wireframe, interamente online, versione base gratuita
-- - [balsamiq](https://balsamiq.com/), disponibile online e offline, valida alternativa
+- [balsamiq](https://balsamiq.com/), disponibile online e offline, valida alternativa
 - [sketch.com](https://www.sketch.com/), uno dei tool più professionali e completi, ha anche una versione gratuita di prova
-
-- draw.io, open source e interamente gratuito con funzioni anche avanzate di disegno, per vari settori
+- [draw.io](https://www.diagrams.net/), open source e interamente gratuito con funzioni anche avanzate di disegno, per vari settori
 
 Noi useremo draw.io che per il contesto scolastico e personale abbiamo trovato essere il più adatto.
 
 ## Draw.io
-Draw.io, oggi anche [diagrams.net](https://www.diagrams.net/about.html), è un sito che offre uno strumento gratuito ed open-source, estensibile ed adatto a vari contesti, dai diagramma UML, agli schemi di rete, ai wireframe web. La sua diffusione ed il fatto di essere open-source e completamente basato su web, ha fatto in modo che esistano moltissimi plugin di integrazione con tanti altri servizi, come ad esempio [VSCode](https://www.diagrams.net/blog/embed-diagrams-vscode).
+Draw.io (disponibile anche su[diagrams.net](https://www.diagrams.net/about.html)), è un sito che offre uno strumento gratuito ed open-source, estensibile ed adatto a vari contesti, dai diagramma UML, agli schemi di rete, ai wireframe web. La sua diffusione ed il fatto di essere open-source e completamente basato su web, ha fatto in modo che esistano moltissimi plugin di integrazione con tanti altri servizi, come ad esempio [VSCode](https://www.diagrams.net/blog/embed-diagrams-vscode).
 
 Come altri servizi open-source, il salvataggio dei dati avviene o salvando un file sul computer dell'utente o con servizi di storage di terze parti, come ad esempio Google Drive  o GitHub. Questo essenzialmente per due motivi:
 - lo storage dei file è una delle parti più costose di un progetto web, spesso i progetto open-source non possono permetterselo
@@ -93,7 +92,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTgzNjA5NiwtMTM0NjYxMjc4OSwtMT
+eyJoaXN0b3J5IjpbMTA5MzU2MzU2NSwtMTM0NjYxMjc4OSwtMT
 cxMTI2OTQzNCwyMDk2ODA1Mzk0LDE5NjMyODU4NDYsMjM2NDU4
 NzI5LC0yMDYwNjc3NjE3XX0=
 -->
