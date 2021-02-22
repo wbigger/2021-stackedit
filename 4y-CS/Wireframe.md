@@ -15,8 +15,9 @@ Questo tipo di progettazione si chiama "wireframe" (si può tradurre con "modell
 
 Anche se il bozzetto su carta è una valida opzione, quando si lavora in modo un po' strutturato è bene avere una versione digitale del wireframe. Esistono molti programmi che permettono di fare wireframe, a vari livelli, qui ne cito alcuni dei più comuni:
 - wireframe.cc, interamente online, versione base gratuita
-- 
+- [sketch.com](https://www.sketch.com/), uno dei tool più professionali, ha anche una versione gratuita di prova
+- draw.io, interamente gratuito con funzioni anche
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTcxNjM4M119
+eyJoaXN0b3J5IjpbLTE5MjI3MDgwODFdfQ==
 -->
