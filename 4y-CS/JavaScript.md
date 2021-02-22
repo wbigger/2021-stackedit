@@ -254,6 +254,19 @@ Il nostro codice sarà, prendendo ad esempio l'immagine di un lama:
 	width:  12%;
 }
 ```
+
+Per leggere il valore di una proprietà, ad esempio il valore di `top` dell'elemento con id "moveUp", possiamo scrivere:
+```javascript
+let topPixels = $("#lamaImage").css("top");
+```
+Da notare che il valore delle posizioni vengono sempre ritornate in pixels.
+
+Se vogliamo invece scrivere una proprietà, dobbiamo chiamare la stessa funzione con due argomenti:
+```javascript
+$("#lamaImage").css("top", topValue + "%");
+```
+
+
 ```js
 let topValue = 50;
 let moveUp = function () {
@@ -267,17 +280,9 @@ let init = function () {
 $(document).ready(init);
 ```
 
-È possibile cambiare lo stile in modo programmatico da JavaScript.
 
-Per leggere il valore di una proprietà, ad esempio il valore di `top` dell'elemento con id "moveUp":
-```javascript
-$("#moveUp").css("top");
-```
 
-Se vogliamo invece scrivere una proprietà, dobbiamo chiamare la stessa funzione con due argomenti:
-```javascript
-$("#moveUp").css("top","50%");
-```
+
 
 In questo modo abbiamo impostato il valore `top` dell'elemento con id `#moveUp` al 50%.
 
@@ -366,6 +371,6 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjA0MDIzNiwxODk1MTY2OTc4LDIzMD
-YwOTA2NV19
+eyJoaXN0b3J5IjpbOTI1MTAzODg3LDE4OTUxNjY5NzgsMjMwNj
+A5MDY1XX0=
 -->
