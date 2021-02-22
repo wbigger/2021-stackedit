@@ -235,6 +235,10 @@ Esistono tanti tipi di eventi, come ad esempio:
 La lista è lunghissima, l'elenco completo lo trovate [qui](https://www.w3schools.com/jsref/dom_obj_event.asp).
 
 ## Modifica dello stile da JavaScript
+Immaginiamo di avere una immagine e volerla muovere con dei tasti.
+
+Questo è il wireframe della pagina:
+
 È possibile cambiare lo stile in modo programmatico da JavaScript.
 
 Per leggere il valore di una proprietà, ad esempio il valore di `top` dell'elemento con id "moveUp":
@@ -333,5 +337,5 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIxMzQ5MjBdfQ==
+eyJoaXN0b3J5IjpbMjMwNjA5MDY1XX0=
 -->
