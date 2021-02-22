@@ -14,9 +14,10 @@ Durante la prima fase di bozza, dobbiamo concentrarci solo sugli elementi che vo
 Questo tipo di progettazione solo concettuale si chiama "wireframe" (si può tradurre con "modello in fil di ferro"), perché generalmente rappresenta gli oggetti in modo stilizzato solo con il loro bordo esterno, come fossero fatti con il fil di ferro, appunto.
 
 Anche se il bozzetto su carta è una valida opzione, quando si lavora in modo un po' strutturato è bene avere una versione digitale del wireframe. Esistono molti programmi a questo scopo, a vari livelli, qui ne cito alcuni dei più comuni:
-- wireframe.cc, interamente online, versione base gratuita
-- [sketch.com](https://www.sketch.com/), uno dei tool più professionali, ha anche una versione gratuita di prova
-- balsamiq
+- wireframe.cc, solo per i wireframe, interamente online, versione base gratuita
+- - [balsamiq](https://balsamiq.com/), disponibile online e offline, valida alternativa
+- [sketch.com](https://www.sketch.com/), uno dei tool più professionali e completi, ha anche una versione gratuita di prova
+
 - draw.io, open source e interamente gratuito con funzioni anche avanzate di disegno, per vari settori
 
 Noi useremo draw.io che per il contesto scolastico e personale abbiamo trovato essere il più adatto.
@@ -92,7 +93,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzE5NzYzLC0xMzQ2NjEyNzg5LC0xNz
-ExMjY5NDM0LDIwOTY4MDUzOTQsMTk2MzI4NTg0NiwyMzY0NTg3
-MjksLTIwNjA2Nzc2MTddfQ==
+eyJoaXN0b3J5IjpbMTQ4NTgzNjA5NiwtMTM0NjYxMjc4OSwtMT
+cxMTI2OTQzNCwyMDk2ODA1Mzk0LDE5NjMyODU4NDYsMjM2NDU4
+NzI5LC0yMDYwNjc3NjE3XX0=
 -->
