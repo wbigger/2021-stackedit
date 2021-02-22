@@ -256,44 +256,6 @@ Il nostro codice sarà, prendendo ad esempio l'immagine di un lama:
 }
 ```
 ```js
-let moveUp =  function () {
-
-console.log("Sposto il lama in alto");
-
-this.topValue -= 5;
-$("#lamaImage").css("top", this.topValue + "%");
-
-},
-
-moveLeft: function () {
-
-console.log("Sposto il lama a sinistra");
-
-lamaImg.leftValue -= 5;
-
-$("#lamaImage").css("left", lamaImg.leftValue + "%");
-
-},
-
-moveRight: function () {
-
-console.log("Sposto il lama a destra");
-
-lamaImg.leftValue += 5;
-
-$("#lamaImage").css("left", lamaImg.leftValue + "%");
-
-},
-
-moveDown: function () {
-
-console.log("Sposto il lama in basso");
-
-lamaImg.topValue += 5;
-
-$("#lamaImage").css("top", lamaImg.topValue + "%");
-
-}
 
 }
 
@@ -308,12 +270,7 @@ $("#moveDown").on("click", lamaImg.moveDown);
 $("#moveRight").on("click", lamaImg.moveRight);
 
 $("#moveLeft").on("click", lamaImg.moveLeft);
-
 };
-
-  
-  
-
 $(document).ready(init);
 ```
 È possibile cambiare lo stile in modo programmatico da JavaScript.
@@ -415,6 +372,6 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDMyNDY3MiwxODk1MTY2OTc4LDIzMD
-YwOTA2NV19
+eyJoaXN0b3J5IjpbLTgzNjgxNDYyLDE4OTUxNjY5NzgsMjMwNj
+A5MDY1XX0=
 -->
