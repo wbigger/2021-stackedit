@@ -7,7 +7,11 @@ Questo è utile per una serie di ragioni:
 - rimane come riferimento durante lo sviluppo
 - può essere mostrato ad altre persone per avere un confronto
 
-Fare una pagina web senza prima una bozza è come costruire una casa senza prima avere una piantina, ma cominciando direttamente a tirare su i muri. Le probabilità che il risultato finale sia lontano da quello desiderato sono 
+Fare una pagina web senza prima una bozza è come costruire una casa senza prima avere una piantina, ma cominciando direttamente a tirare su i muri. Le probabilità che il risultato finale sia lontano da quello desiderato sono praticamente del 100%.
+
+Durante la prima fase della bozza, dobbiamo concentrarci solo sugli elementi che vogliamo visualizzare, la loro disposizione nella pagina e descrivere il comportamento voluto. Non vogliamo distrarci con colori, font ed altre cose che entreranno in gioco in un momento successivo.
+
+Questo tipo di progettazione si chiama 
 
 - uso di draw.io
 - esempio
@@ -15,5 +19,5 @@ Fare una pagina web senza prima una bozza è come costruire una casa senza prima
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDQ1MDc1NF19
+eyJoaXN0b3J5IjpbNDQ3MTcyMTQxXX0=
 -->
