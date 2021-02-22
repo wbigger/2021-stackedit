@@ -73,9 +73,9 @@ Prendiamo la pagina del portale interno del marconi:
 
 ![Visual marconicloud](./assets/marconicloud.png)
 
-
-
+Il wireframe potrebbe essere:
+<iframe frameborder="0" style="width:100%;height:533px;" src="https://viewer.diagrams.net/?highlight=0000ff&nav=1&title=Primo%20diagramma.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwbigger%2F2021-informatica-html5%2Fmain%2FPrimo%2520diagramma.drawio"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjgwNTM5NCwxOTYzMjg1ODQ2LDIzNj
-Q1ODcyOSwtMjA2MDY3NzYxN119
+eyJoaXN0b3J5IjpbLTEwOTI5MDQyNTEsMjA5NjgwNTM5NCwxOT
+YzMjg1ODQ2LDIzNjQ1ODcyOSwtMjA2MDY3NzYxN119
 -->
