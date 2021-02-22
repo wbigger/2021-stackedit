@@ -274,14 +274,10 @@ Nel complesso il nostro file JavaScript sarà come segue:
 
 ```js
 let moveUp = function () {
-
-let topValue = parseInt($("#lamaImage").css("top"));
-
-let newTopValue = topValue-10;
-
-console.log(`Sposto il lama in alto (top value: ${topValue} -> ${newTopValue})`);
-
-	$("#lamaImage").css("top", newTopValue);
+	let topValue = parseInt($("#lamaImage").css("top"));
+	let newTopValue = topValue-10;
+	console.log(`Sposto il lama in alto (top value: ${topValue} -> ${newTopValue})`);
+		$("#lamaImage").css("top", newTopValue);
 };
 
 let init = function () {
@@ -291,16 +287,12 @@ let init = function () {
 $(document).ready(init);
 ```
 
-
-
-
-
-In questo modo abbiamo impostato il valore `top` dell'elemento con id `#moveUp` al 50%.
+In questo modo spostiamo di 10px in su l'immagine ad ogni click.
 
 ## Modifica dello stile con JavaScript+CSS
-Come abbiamo visto, modificare lo stile da JavaScript è possibile, ed in alcuni casi non è possibile evitarlo: ad esempio se dobbiamo cambiare ad ogni pressione del tasto il valore di `top`.
+Come abbiamo visto, modificare lo stile da JavaScript è possibile, ed in alcuni casi non è possibile evitarlo: ad esempio se dobbiamo cambiare ad ogni pressione del tasto il valore di `top` di un valore diverso..
 
-In linea generale è meglio evitare di modificare lo stile da JavaScript, perché dobbiamo ricordarci che tutto quello che riguarda l'aspetto visivo è competenza del foglio di stile `.css`. Come faccio quindi a rendere dinamico l'aspetto della pagina, ma mantenendo tutte le regole nel foglio di stile?
+In linea generale perì è meglio evitare di modificare lo stile da JavaScript, perché dobbiamo ricordarci che tutto quello che riguarda l'aspetto visivo è competenza del foglio di stile `.css`. Come faccio quindi a rendere dinamico l'aspetto della pagina,  mantenendo tutte le regole nel foglio di stile?
 
 La soluzione è quella di creare delle classi dedicate allo stile, scrivere le regole relative nel foglio di stile, ed aggiungere e togliere le classi in modo dinamico in JavaScript.
 
@@ -382,6 +374,6 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTQ0ODk4MiwtMTQzMDA1MDQxMyw5Mj
-UxMDM4ODcsMTg5NTE2Njk3OCwyMzA2MDkwNjVdfQ==
+eyJoaXN0b3J5IjpbMjE2NjI1NTY4LC0xNDMwMDUwNDEzLDkyNT
+EwMzg4NywxODk1MTY2OTc4LDIzMDYwOTA2NV19
 -->
