@@ -258,7 +258,7 @@ La soluzione è quella di creare delle classi dedicate allo stile, scrivere le r
 
 Facciamo un esempio: aggiungiamo un bottone che mi ingrandisce l'immagine.
 ```html
-<button  id="enlarge">move UP</button>
+<button  id="en">Grow</button>
 ```
 
 
@@ -330,5 +330,5 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyOTcxOTcxXX0=
+eyJoaXN0b3J5IjpbMjU0ODk2NjczXX0=
 -->
