@@ -305,11 +305,20 @@ Facciamo un esempio: aggiungiamo un bottone che mi ingrandisce l'immagine.
 
 Quando si preme questo pulsante, l'immagine dovrà ingrandirsi. Scrivo una regola CSS per questo.
 ```css
-TODO{}
+.enlarged {
+	transform:  scale(1.25);
+	transition:  transform  0.25s  ease;
+}
 ```
+
 Collego il bottone ad una funzione che mi aggiunge la classe:
 ```js
-//TODO()
+function enlarge() {
+	$("#lamaImg").addClass("enlarged");
+}
+let init = function() {
+	$("#lamaImg").on(click;
+}
 ```
  
  Se volessi togliere una classe, posso usare `.removeClass()`.
@@ -384,7 +393,7 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI2MjYwNzgsMjE2NjI1NTY4LC0xND
-MwMDUwNDEzLDkyNTEwMzg4NywxODk1MTY2OTc4LDIzMDYwOTA2
-NV19
+eyJoaXN0b3J5IjpbLTczNDMzNTk0NiwyMTY2MjU1NjgsLTE0Mz
+AwNTA0MTMsOTI1MTAzODg3LDE4OTUxNjY5NzgsMjMwNjA5MDY1
+XX0=
 -->
