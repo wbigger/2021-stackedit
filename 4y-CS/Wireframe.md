@@ -87,11 +87,11 @@ Analizziamo alcune cose significative:
 - le icone di ricerca, per il login e per il menù sono state scelte dalla libreria di draw.io
 - i testi che compaiono nel wireframe sono quelli reali della pagina
 - gli ingombri sono rispettati
-- non c'è l'immagine con il logo sullo sfon
+- non c'è l'immagine con il logo sullo sfondo perché non è qualcosa che ci interessa rappresentare, non ci si può interagire e lo consideriamo parte integrante dello sfondo
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMDA5MDUyLC0xNzExMjY5NDM0LDIwOT
-Y4MDUzOTQsMTk2MzI4NTg0NiwyMzY0NTg3MjksLTIwNjA2Nzc2
-MTddfQ==
+eyJoaXN0b3J5IjpbLTEzNDY2MTI3ODksLTE3MTEyNjk0MzQsMj
+A5NjgwNTM5NCwxOTYzMjg1ODQ2LDIzNjQ1ODcyOSwtMjA2MDY3
+NzYxN119
 -->
