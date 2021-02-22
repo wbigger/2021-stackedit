@@ -62,7 +62,9 @@ Selezionare il corretto contenitore per la pagine web è importante perché biso
 In questo modo posso capire quante cose riescono ad entrare all'interno della pagina e quante ne rimangono fuori, per poter eventualmente togliere o cambiare alcuni elementi grafici e rendere la pagina più fruibile, soprattutto in ambiente mobile in cui gli schermi sono più piccoli.
 
 ### Testi
+I testi che compaiono nel wireframe sono una parte importante del lavoro di questa fase.
 
+Se ad esempio vogliamo 
 
 ## Flusso di lavoro
 Un tipico flusso di lavoro per lo sviluppo di una pagina web è il seguente:
@@ -76,7 +78,7 @@ Il visual è la versione del wireframe con tutti i colori e le immagini al loro 
 
 Noi la fase visual la salteremo perché richiederebbe troppo tempo e delle competenze grafiche che normalmente non sono richieste agli studenti del tecnico. In ogni caso gli appassionati possono provare a cimentarsi anche in questa fase!
 
-> Un altra frase che potrebbe entrare nel processo è il "copywriting", ovvero la definizione esatta dei testi della pagina. In base al tipo di sito che dobbiamo implementare, può essere svolta da un professionista, oppu
+> Un altra frase che potrebbe entrare nel processo è il "[copywriting](https://en.wikipedia.org/wiki/Copywriting)", ovvero la definizione esatta dei testi della pagina. In base al tipo di sito che dobbiamo implementare, può essere svolta da un professionista arruolato solo per questo.
 
 ## Esempio pratico: marconicloud.it
 
@@ -101,7 +103,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce molto i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NTQ2OTY2LC0xMzQ2NjEyNzg5LC0xNz
-ExMjY5NDM0LDIwOTY4MDUzOTQsMTk2MzI4NTg0NiwyMzY0NTg3
-MjksLTIwNjA2Nzc2MTddfQ==
+eyJoaXN0b3J5IjpbODE1Mjg5NzksLTEzNDY2MTI3ODksLTE3MT
+EyNjk0MzQsMjA5NjgwNTM5NCwxOTYzMjg1ODQ2LDIzNjQ1ODcy
+OSwtMjA2MDY3NzYxN119
 -->
