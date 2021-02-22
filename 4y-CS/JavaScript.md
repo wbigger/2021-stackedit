@@ -324,8 +324,6 @@ let init = function() {
  Se volessi togliere una classe, posso usare analogamente `.removeClass()`.
  
 
-
-
 <style>
 .centered {
 	text-align: center;
@@ -393,7 +391,7 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM5MTgzOTcsMjE2NjI1NTY4LC0xND
+eyJoaXN0b3J5IjpbLTEwMDI5NDAzODUsMjE2NjI1NTY4LC0xND
 MwMDUwNDEzLDkyNTEwMzg4NywxODk1MTY2OTc4LDIzMDYwOTA2
 NV19
 -->
