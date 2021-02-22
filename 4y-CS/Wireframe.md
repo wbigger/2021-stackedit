@@ -73,7 +73,9 @@ Per quanto riguarda il contenuto dei paragrafi, al contrario,  molto spesso non 
 ### Liste di elementi
 Anche le liste di elementi sono un aspetto importante nei wireframe. Bisogna far capire in particolare come sono ordinati gli elementi della lista: per data? per costo? per rilevanza? in ordine ascendente o discendente?
 
-Per rendere chiaro il mockup, mettete sempre degli esempi reali. Se fate un'app per pizzerie, mettete delle pizze; se siete un'app di parcheggi, mettete dei parcheggi reali. Scrivete dei valori numerici verosimili (es. costo, distanza, rilevanza, etc) ed ordinati in modo che sia chiaro qual'è il criterio di ordinamento. Cercate di mettere varie situazioni nella lista, ad esempio se alcuni elementi 
+Per rendere chiaro il mockup, mettete sempre degli esempi reali. Se fate un'app per pizzerie, mettete delle pizze; se siete un'app di parcheggi, mettete dei parcheggi reali. Scrivete dei valori numerici verosimili (es. costo, distanza, rilevanza, etc) ed ordinati in modo che sia chiaro qual'è il criterio di ordinamento. Cercate di mettere varie situazioni nella lista, ad esempio se alcuni elementi sono acquistabili ed altri no, mettete nella lista un elemento i ogni tipo.
+
+ 
 
 
 ## Flusso di lavoro
@@ -113,7 +115,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce molto i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjQ2MDg2MiwtMTM0NjYxMjc4OSwtMT
+eyJoaXN0b3J5IjpbLTU3OTA4OTQzOSwtMTM0NjYxMjc4OSwtMT
 cxMTI2OTQzNCwyMDk2ODA1Mzk0LDE5NjMyODU4NDYsMjM2NDU4
 NzI5LC0yMDYwNjc3NjE3XX0=
 -->
