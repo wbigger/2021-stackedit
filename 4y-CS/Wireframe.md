@@ -68,7 +68,7 @@ Dobbiamo infatti decidere non solo la posizione ma anche il tipo di elementi dev
 
 Se ad esempio stiamo realizzando una pagina con una lista di elementi, nell'intestazione della lista possiamo scrivere "Più visitati", "Raccomandati", "Visitati di recente" per far capire che tipo di elementi devono essere visualizzati.
 
-Per quanto riguarda il contenuto dei paragrafi, al contrario,  molto spesso non ci interessa entrare nel dettaglio. In questo caso possiamo usare del testo "Lorem Ipsum"
+Per quanto riguarda il contenuto dei paragrafi, al contrario,  molto spesso non ci interessa entrare nel dettaglio. In questo caso possiamo usare del testo "[Lorem Ipsum](https://www.lipsum.com/)", che rappresenta un testo generico; lo trovate su Mockup Text->paragraph of text. Anche se il contenuto non è importante in questa fase, la sua lunghezza sì: quindi mettete 
 
 se vogliamo far capire che il testo non è importante, possiamo usare 
 ## Flusso di lavoro
@@ -108,7 +108,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce molto i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMDc3MTQzLC0xMzQ2NjEyNzg5LC0xNz
-ExMjY5NDM0LDIwOTY4MDUzOTQsMTk2MzI4NTg0NiwyMzY0NTg3
-MjksLTIwNjA2Nzc2MTddfQ==
+eyJoaXN0b3J5IjpbLTExNjUxMzc1MDYsLTEzNDY2MTI3ODksLT
+E3MTEyNjk0MzQsMjA5NjgwNTM5NCwxOTYzMjg1ODQ2LDIzNjQ1
+ODcyOSwtMjA2MDY3NzYxN119
 -->
