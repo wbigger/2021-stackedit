@@ -48,13 +48,19 @@ Per gli elementi di interazione, c'è la categoria "forms":
 
 Questi elementi coprono praticamente tutti i tipi di interazione che si ha con le pagine web: checkbox, radio button, menu a tendina, selettori, slider, barra di ricerca, calendario, testo di input, etc.
 
-Per avere il contenitore dove mettere i vari elementi, se vogliamo una pagina web da browser, possiamo andare su Mockup Containers->
+Per avere il contenitore dove mettere i vari elementi, se vogliamo una pagina web da browser, possiamo andare su Mockup Containers->Browser Window. Se vogliamo invece una pagina web in un dispositivo mobile, possiamo andare nelle categorie "Android" oppure "iOS UI".
+
+## Flusso di 
+Il flusso di lavoro 
+Per fare un esempio di come 
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzMwODk0NCwxOTYzMjg1ODQ2LDIzNj
-Q1ODcyOSwtMjA2MDY3NzYxN119
+eyJoaXN0b3J5IjpbMzY2Njk1MDA4LDE5NjMyODU4NDYsMjM2ND
+U4NzI5LC0yMDYwNjc3NjE3XX0=
 -->
