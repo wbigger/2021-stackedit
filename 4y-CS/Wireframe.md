@@ -71,7 +71,9 @@ Se ad esempio stiamo realizzando una pagina con una lista di elementi, nell'inte
 Per quanto riguarda il contenuto dei paragrafi, al contrario,  molto spesso non ci interessa entrare nel dettaglio. In questo caso possiamo usare del testo "[Lorem Ipsum](https://www.lipsum.com/)", che rappresenta un testo generico; lo trovate su Mockup Text->paragraph of text. Anche se il contenuto non è importante in questa fase, la sua lunghezza sì, perché definisce gli ingombri: mettete quindi un paragrafo della lunghezza adatta a quella che prevedete dovrà avere il testo finale.
 
 ### Liste di elementi
-Anche le liste di elementi hanno un aspetto particolarmente importante nei wireframe. Bisogna far ca
+Anche le liste di elementi sono un aspetto importante nei wireframe. Bisogna far capire in particolare come sono ordinati gli elementi della lista: per data? per costo? per rilevanza? in ordine ascendente o discendente?
+
+Per rendere chiaro il mockup, mettete sempre degli esempi reali. Se fate un'app
 
 
 ## Flusso di lavoro
@@ -111,7 +113,7 @@ Analizziamo alcune cose significative:
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce molto i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDU0Njg2MCwtMTM0NjYxMjc4OSwtMT
-cxMTI2OTQzNCwyMDk2ODA1Mzk0LDE5NjMyODU4NDYsMjM2NDU4
-NzI5LC0yMDYwNjc3NjE3XX0=
+eyJoaXN0b3J5IjpbNTI1MjQwNTk5LC0xMzQ2NjEyNzg5LC0xNz
+ExMjY5NDM0LDIwOTY4MDUzOTQsMTk2MzI4NTg0NiwyMzY0NTg3
+MjksLTIwNjA2Nzc2MTddfQ==
 -->
