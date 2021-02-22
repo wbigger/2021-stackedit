@@ -67,8 +67,12 @@ Noi la fase visual la salteremo perché richiederebbe troppo tempo e delle compe
 
 Proviamo adesso a fare un esempio pratico.
 
-Come abbiamo detto, normalmente dovremmo prima disegnare il wireframe e poi da lì il visual ed implementare la pagina. Ma per eserciz
+Come abbiamo detto, normalmente dovremmo prima disegnare il wireframe e poi da lì il visual ed implementare la pagina. Ma per esercizio, proviamo a fare l'operazione inversa: da una pagina web esistente, tiriamo fuori il wireframe che potrebbe averlo preceduto.
+
+Prendiamo la pagina del portale interno del marconi:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjM3MTUzMSwxOTYzMjg1ODQ2LDIzNj
-Q1ODcyOSwtMjA2MDY3NzYxN119
+eyJoaXN0b3J5IjpbODUyNTIxOTU2LDE5NjMyODU4NDYsMjM2ND
+U4NzI5LC0yMDYwNjc3NjE3XX0=
 -->
