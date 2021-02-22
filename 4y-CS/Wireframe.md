@@ -50,6 +50,11 @@ Questi elementi coprono praticamente tutti i tipi di interazione che si ha con l
 
 Per avere il contenitore dove mettere i vari elementi, se vogliamo una pagina web da browser, possiamo andare su Mockup Containers->Browser Window. Se vogliamo invece una pagina web in un dispositivo mobile, possiamo andare nelle categorie "Android" oppure "iOS UI".
 
+### Ingombri
+Fate attenzione agli "ingombri" quando disegnate il wireframe: lo spazio occupato sulla pagina da un certo elemento deve corrispondere più o meno a quello nella pagina finale.
+
+Questo è importante perché così posso capire quan
+
 ## Flusso di lavoro
 Il flusso di lavoro per lo sviluppo di una pagina web è quindi il seguente:
 
@@ -81,11 +86,11 @@ Analizziamo alcune cose significative:
 - ci sono delle note per specificare alcune immagini significative
 - le icone di ricerca, per il login e per il menù sono state scelte dalla libreria di draw.io
 - i testi che compaiono nel wireframe sono quelli reali della pagina
-- gli "ingombri" devono ess
+- gli "ingombri" devono essere rispettati: se un testo o un'immagine occupano circa un certo spazio nella pagina, questo deve mantenersi tra wireframe e progetto finale
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDg1MTg0LC0xNzExMjY5NDM0LDIwOT
+eyJoaXN0b3J5IjpbLTg1NjgxODQzLC0xNzExMjY5NDM0LDIwOT
 Y4MDUzOTQsMTk2MzI4NTg0NiwyMzY0NTg3MjksLTIwNjA2Nzc2
 MTddfQ==
 -->
