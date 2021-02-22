@@ -308,6 +308,11 @@ Quando si preme questo pulsante, l'immagine dovrà ingrandirsi. Scrivo una regol
 TODO{}
 ```
 Collego il bottone ad una funzione che mi aggiunge la classe:
+```js
+//TODO()
+```
+ 
+ Se volessi togliere una classe, posso usare `.removeClass()`.
  
 
 
@@ -379,7 +384,7 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg5NDA1NiwyMTY2MjU1NjgsLTE0Mz
-AwNTA0MTMsOTI1MTAzODg3LDE4OTUxNjY5NzgsMjMwNjA5MDY1
-XX0=
+eyJoaXN0b3J5IjpbLTEyODI2MjYwNzgsMjE2NjI1NTY4LC0xND
+MwMDUwNDEzLDkyNTEwMzg4NywxODk1MTY2OTc4LDIzMDYwOTA2
+NV19
 -->
