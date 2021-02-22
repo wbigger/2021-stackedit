@@ -61,6 +61,9 @@ Selezionare il corretto contenitore per la pagine web è importante perché biso
 
 In questo modo posso capire quante cose riescono ad entrare all'interno della pagina e quante ne rimangono fuori, per poter eventualmente togliere o cambiare alcuni elementi grafici e rendere la pagina più fruibile, soprattutto in ambiente mobile in cui gli schermi sono più piccoli.
 
+### Testi
+
+
 ## Flusso di lavoro
 Un tipico flusso di lavoro per lo sviluppo di una pagina web è il seguente:
 
@@ -73,6 +76,7 @@ Il visual è la versione del wireframe con tutti i colori e le immagini al loro 
 
 Noi la fase visual la salteremo perché richiederebbe troppo tempo e delle competenze grafiche che normalmente non sono richieste agli studenti del tecnico. In ogni caso gli appassionati possono provare a cimentarsi anche in questa fase!
 
+> 
 
 ## Esempio pratico: marconicloud.it
 
@@ -84,20 +88,20 @@ Prendiamo la pagina del portale interno del marconi:
 
 ![Visual marconicloud](./assets/marconicloud.png)
 
-Il wireframe potrebbe essere:
+Il wireframe potrebbe essere così:
 <iframe frameborder="0" style="width:100%;height:533px;" src="https://viewer.diagrams.net/?highlight=0000ff&nav=1&title=Primo%20diagramma.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwbigger%2F2021-informatica-html5%2Fmain%2FPrimo%2520diagramma.drawio"></iframe>
 
 Analizziamo alcune cose significative:
-- le immagini sono state tutte sostituite con dei box
+- le immagini sono state sostituite con dei box
 - ci sono delle note per specificare alcune immagini significative
-- le icone di ricerca, per il login e per il menù sono state scelte dalla libreria di draw.io
+- le icone di ricerca, per il login e per il menù in alto a destra sono state scelte dalla libreria di draw.io
 - i testi che compaiono nel wireframe sono quelli reali della pagina
 - gli ingombri sono rispettati
 - non c'è l'immagine con il logo sullo sfondo perché non è qualcosa che ci interessa rappresentare, non ci si può interagire e lo consideriamo parte integrante dello sfondo
 
-Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
+Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce molto i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY0NjQ5NDAsLTEzNDY2MTI3ODksLT
-E3MTEyNjk0MzQsMjA5NjgwNTM5NCwxOTYzMjg1ODQ2LDIzNjQ1
-ODcyOSwtMjA2MDY3NzYxN119
+eyJoaXN0b3J5IjpbLTU0MDMwOTg5LC0xMzQ2NjEyNzg5LC0xNz
+ExMjY5NDM0LDIwOTY4MDUzOTQsMTk2MzI4NTg0NiwyMzY0NTg3
+MjksLTIwNjA2Nzc2MTddfQ==
 -->
