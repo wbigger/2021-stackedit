@@ -252,7 +252,9 @@ In questo modo abbiamo impostato il valore `top` dell'elemento con id `#moveUp` 
 ## Modifica dello stile con JavaScript+CSS
 Come abbiamo visto, modificare lo stile da JavaScript è possibile, ed in alcuni casi non è possibile evitarlo: ad esempio se dobbiamo cambiare ad ogni pressione del tasto il valore di `top`.
 
-In linea generale è meglio evitare di modificar: dobbiamo ricordarci che tutto quello che riguarda l'aspetto visivo è competenza del foglio di stile `.css`, quindi 
+In linea generale è meglio evitare di modificare lo stile da JavaScript, perché dobbiamo ricordarci che tutto quello che riguarda l'aspetto visivo è competenza del foglio di stile `.css`. Come faccio quindi a rendere dinamico l'aspetto della pagina, ma mantenendo tutte le regole nel foglio di stile?
+
+La soluzione è quella di scrivere delle c
 
 Un modo migliore per poter gestire
 
@@ -325,5 +327,5 @@ figcaption {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzI2MTU3N119
+eyJoaXN0b3J5IjpbLTE0OTQ2NDM4MzFdfQ==
 -->
