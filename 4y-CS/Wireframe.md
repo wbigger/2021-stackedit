@@ -53,7 +53,7 @@ Per avere il contenitore dove mettere i vari elementi, se vogliamo una pagina we
 ### Ingombri
 Fate attenzione agli "ingombri" quando disegnate il wireframe: lo spazio occupato sulla pagina da un certo elemento deve corrispondere più o meno a quello nella pagina finale.
 
-Questo è importante perché così posso capire quan
+Questo è importante perché così posso capire quante cose riescono ad entrare all'interno della pagina e quante ne rimangono fuori, in modo da poter togliere o cambiare alcuni elementi grafici per fare in modo che la pagina sia facilmente fruibile, soprattutto in ambiente mobile in cui gli schermi sono più piccoli.
 
 ## Flusso di lavoro
 Il flusso di lavoro per lo sviluppo di una pagina web è quindi il seguente:
@@ -86,11 +86,12 @@ Analizziamo alcune cose significative:
 - ci sono delle note per specificare alcune immagini significative
 - le icone di ricerca, per il login e per il menù sono state scelte dalla libreria di draw.io
 - i testi che compaiono nel wireframe sono quelli reali della pagina
-- gli "ingombri" devono essere rispettati: se un testo o un'immagine occupano circa un certo spazio nella pagina, questo deve mantenersi tra wireframe e progetto finale
+- gli ingombri sono rispettati
+- non c'è l'immagine con il logo sullo sfon
 
 Come vedete, creare un wireframe di questo genere può richiedere pochi minuti, ma riduce moltissimo i tempi successivi di sviluppo perché permette di fissare le idee, chiedere consiglio ad altri e fare modifiche al progetto in modo veloce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjgxODQzLC0xNzExMjY5NDM0LDIwOT
+eyJoaXN0b3J5IjpbODcwMDA5MDUyLC0xNzExMjY5NDM0LDIwOT
 Y4MDUzOTQsMTk2MzI4NTg0NiwyMzY0NTg3MjksLTIwNjA2Nzc2
 MTddfQ==
 -->
