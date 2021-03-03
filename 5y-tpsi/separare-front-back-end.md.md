@@ -8,7 +8,9 @@ In pratica significa che:
 - posso cambiare il dispositivo di visualizzazione (tablet, smartphone, etc) senza toccare il backend
 - posso cambiare la logica del backend (es. database, linguaggio di programmazione, etc) senza toccare il frontend
 
-Per fare questo, dobbiamo fare in modo che fr
+Per fare questo, dobbiamo fare in modo che front-end e back-end abbiamo un punto di contatto chiaro e ben definito. Di solito si usa il linguaggio [JSON](https://www.json.org/json-en.html), che è un formato di testo che è facilmente comprensibile alle macchine ma può essere letto e scritto anche da un essere umano.
+
+> Un alternativa a JSON sono  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNzY0OTUyXX0=
+eyJoaXN0b3J5IjpbLTExNjkzMTE1MzhdfQ==
 -->
