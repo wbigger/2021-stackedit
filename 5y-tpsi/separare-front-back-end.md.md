@@ -20,7 +20,7 @@ Dopo aver creato la pagina web statica, si possono seguire i seguenti passi:
 - da back-end, genero il file `data.json` con i dati presi dal database o come ritengo opportuno attraverso il mio linguaggio di programmazione preferito, ad esempio PHP
 - quando tutto è pronto, sostituisco la chiamata al file locale `.json` con il la chiamata allo script del backend
 
-
+## Esempio
 Per un esempio di implementazione, potete guardare [qui](https://github.com/giadaventurini-pixel/2021-marconi-turismo-cremona/tree/f34f032cc1294937ea4c6a21a9274ea1d105c7d0/WebPage), con particoare riferimento ai file:
 - index.html
 - script.js
@@ -29,5 +29,5 @@ Per un esempio di implementazione, potete guardare [qui](https://github.com/giad
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTMwNTkwMF19
+eyJoaXN0b3J5IjpbMTA4NjMxNTM0MCwxODU5MzA1OTAwXX0=
 -->
