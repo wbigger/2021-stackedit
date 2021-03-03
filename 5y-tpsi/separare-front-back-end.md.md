@@ -21,7 +21,13 @@ Dopo aver creato la pagina web statica, si possono seguire i seguenti passi:
 - quando tutto è pronto, sostituisco la chiamata al file locale `.json` con il la chiamata allo script del backend
 
 
+Per un esempio di implementazione, potete guardare [qui](https://github.com/giadaventurini-pixel/2021-marconi-turismo-cremona/tree/f34f032cc1294937ea4c6a21a9274ea1d105c7d0/WebPage), con particoare riferimento ai file:
+- index.html
+- script.js
+- poi_list.json
+- index.php
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTQ3MTE3XX0=
+eyJoaXN0b3J5IjpbMTg1OTMwNTkwMF19
 -->
