@@ -15,8 +15,9 @@ Per fare questo, dobbiamo fare in modo che front-end e back-end abbiamo un punto
 ## Fasi di implementazione
 
 Dopo aver creato la pagina web statica, si possono seguire i seguenti passi:
-- metto tutti gli elementi dinamici in un file `.json`, all'interno del mio server
-- da front-end, leggo il file JSON attraverso una chiamata HTTP, ad esempio `
+- metto tutti gli elementi dinamici in un file di test `.json`, all'interno del mio server, ad esempio `data.json`
+- da front-end, leggo il file JSON attraverso una chiamata HTTP, ad esempio `$.getJSON('data.json')`
+- da back-end, genero il file `data.json` con i dati presi dal database o come ritengo opportuno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODc3MDIxM119
+eyJoaXN0b3J5IjpbMTY5MTU0ODQ5M119
 -->
