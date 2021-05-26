@@ -29,9 +29,10 @@ Di seguito dei link molto utili per chi cerca lavoro.
 - [Hacker Rank](https://www.hackerrank.com/)
 
 # Conferenze & Co.
-
+Di seguito delle conferenze annuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
 - [Codemotion](https://www.codemotion.com/)
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTc4NDAzMywyNTQwMjUyOTNdfQ==
+eyJoaXN0b3J5IjpbLTczNTE3MDk0NCwyNTQwMjUyOTNdfQ==
 -->
