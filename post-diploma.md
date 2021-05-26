@@ -34,12 +34,12 @@ Di seguito delle conferenze annuali che consiglio di seguire in presenza o onlin
 
 - [Codemotion](https://www.codemotion.com/)
 - [Droidcon](https://it.droidcon.com/)
-- [Google Developers Groups]
+- [Google Developers Groups](https://gdg.community.dev/)
 - [Google I/O](https://events.google.com/io/)
 - [Apple WWDC](https://developer.apple.com/wwdc21/)
 - [AWS re:Invent](https://reinvent.awsevents.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjI0MDg1LDE3ODA0ODM3NTgsMjU0MD
-I1MjkzXX0=
+eyJoaXN0b3J5IjpbLTEzMDM1NzMxMjQsMTc4MDQ4Mzc1OCwyNT
+QwMjUyOTNdfQ==
 -->
