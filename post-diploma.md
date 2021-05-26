@@ -28,6 +28,9 @@ Di seguito dei link molto utili per chi cerca lavoro.
 - [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
 - [Hacker Rank](https://www.hackerrank.com/)
 
+# Conferenze
+- []
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc5NDEwNjcsMjU0MDI1MjkzXX0=
+eyJoaXN0b3J5IjpbLTE3NzM2MjIwNzIsMjU0MDI1MjkzXX0=
 -->
