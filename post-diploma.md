@@ -27,6 +27,7 @@ Di seguito dei link molto utili per chi cerca lavoro.
 - [Linkedin](https://www.linkedin.com/)
 - [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
 - [Hacker Rank](https://www.hackerrank.com/)
+- [Glassdoor](https://www.glassdoor.it/)
 
 # Conferenze & Co.
 Di seguito delle conferenze annuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
@@ -34,5 +35,5 @@ Di seguito delle conferenze annuali che consiglio di seguire in presenza o onlin
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTE3MDk0NCwyNTQwMjUyOTNdfQ==
+eyJoaXN0b3J5IjpbMTc4MDQ4Mzc1OCwyNTQwMjUyOTNdfQ==
 -->
