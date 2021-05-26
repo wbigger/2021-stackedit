@@ -31,12 +31,15 @@ Di seguito dei link molto utili per chi cerca lavoro.
 
 # Conferenze & Co.
 Di seguito delle conferenze annuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
+
 - [Codemotion](https://www.codemotion.com/)
+- [Droidcon](https://it.droidcon.com/)
+- [Google Developers Groups]
 - [Google I/O](https://events.google.com/io/)
 - [Apple WWDC](https://developer.apple.com/wwdc21/)
 - [AWS re:Invent](https://reinvent.awsevents.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTIxOTkwOCwxNzgwNDgzNzU4LDI1ND
-AyNTI5M119
+eyJoaXN0b3J5IjpbLTY4MjI0MDg1LDE3ODA0ODM3NTgsMjU0MD
+I1MjkzXX0=
 -->
