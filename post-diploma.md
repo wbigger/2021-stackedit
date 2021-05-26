@@ -20,6 +20,7 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Cognitive Class](https://courses.cognitiveclass.ai/)
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 - [Skillshare](https://www.skillshare.com/)
+- [Udacity](https://www.udacity.com/)
 
 # Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
@@ -28,5 +29,5 @@ Di seguito dei link molto utili per chi cerca lavoro.
 - [Hacker Rank](https://www.hackerrank.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MDI1MjkzXX0=
+eyJoaXN0b3J5IjpbLTExNjc5NDEwNjcsMjU0MDI1MjkzXX0=
 -->
