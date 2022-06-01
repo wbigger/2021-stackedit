@@ -21,6 +21,7 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 - [Skillshare](https://www.skillshare.com/)
 - [Udacity](https://www.udacity.com/)
+- [Domestika](https://www.domestika.org/)
 
 # Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
