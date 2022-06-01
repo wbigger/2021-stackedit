@@ -17,18 +17,20 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Coursera](https://www.coursera.org)
 - [EdX](https://www.edx.org/)
 - [Pluralsight](https://www.pluralsight.com/)
+- [Udacity](https://www.udacity.com/)
+- [Udemy](https://www.udemy.com/)
+- [Skillshare](https://www.skillshare.com/)
+- [Domestika](https://www.domestika.org/)
 - [Cognitive Class](https://courses.cognitiveclass.ai/)
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
-- [Skillshare](https://www.skillshare.com/)
-- [Udacity](https://www.udacity.com/)
-- [Domestika](https://www.domestika.org/)
 
 # Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
 - [Linkedin](https://www.linkedin.com/)
-- [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
-- [Hacker Rank](https://www.hackerrank.com/)
 - [Glassdoor](https://www.glassdoor.it/)
+- [Hacker Rank](https://www.hackerrank.com/)
+- [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
+
 
 # Conferenze & Co.
 Di seguito delle conferenze annuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
