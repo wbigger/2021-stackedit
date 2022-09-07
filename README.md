@@ -1,5 +1,8 @@
 ## Materiale didattico 2020-2021
 
+**NOTA**: per una lista più aggiornata dei corsi, visitare la pagina [wbigger.github.io](wbigger.github.io).
+
+
 IIS Marconi Civitavecchia.
 Tecnico indirizzo informatico.
 
