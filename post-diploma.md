@@ -1,8 +1,10 @@
 # Occasioni post-diploma
 
 ## Studiare all'estero
-- [InformaGiovani](http://www.informagiovaniroma.it/estero/approfondimenti/studiare-all-estero)
-- [USA](https://gradadmissions.mit.edu/applications/international-applicants)
+- [Portale Europeo per i Giovani](https://youth.europa.eu/home_it)
+- [Portale dei Giovani](https://www.portaledeigiovani.it/)
+- [Erasmus+](https://erasmus-plus.ec.europa.eu/it/opportunities/opportunities-for-individuals/students)
+- [MIT Boston](https://oge.mit.edu/graduate-admissions/)
 
 ## Università in Italia
 Di seguito alcuni siti di università italiane che hanno buone facoltà di informatica.
@@ -13,9 +15,11 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
 - [Politecnico di Milano](http://www.poliorientami.polimi.it/come-si-accede/ingegneria/infografica/)
 - [Politecnico di Torino](http://orienta.polito.it/it/iscrizione)
 - [Università di Salerno (Fisciano)](https://web.unisa.it/didattica/immatricolazioni/informazioni)
+- [Università di Pisa](https://www.unipi.it/index.php/lauree/corso/10298)
 
 ## ITS
-- ITS Academy Lazio Digitale 
+- [Percorsi ITS](https://www.miur.gov.it/percorsi-its)
+- [ITS Academy Lazio Digitale](https://www.laziodigital.it/)
 
 ## Studio Online
 Di seguito dei portali con ottimi corsi che si possono seguire online, per una formazione da affiancare al lavoro o all'università.
