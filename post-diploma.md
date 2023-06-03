@@ -48,7 +48,7 @@ Di seguito dei link molto utili per chi cerca lavoro.
 Di seguito delle conferenze ed eventi che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
 
 - [Codemotion](https://www.codemotion.com/)
-  - [Aperitech](https://events.codemotion.com/meetups/) 
+  - [Meetups](https://events.codemotion.com/meetups/) 
 - [Droidcon](https://it.droidcon.com/)
 - [Google Developers Groups](https://gdg.community.dev/)
 - [Google I/O](https://events.google.com/io/)
