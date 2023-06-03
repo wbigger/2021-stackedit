@@ -45,7 +45,7 @@ Di seguito dei link molto utili per chi cerca lavoro.
 
 
 ## Conferenze & Co.
-Di seguito delle conferenze annuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
+Di seguito delle conferenze ed eventi che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
 
 - [Codemotion](https://www.codemotion.com/)
   - [Aperitech](https://events.codemotion.com/meetups/) 
