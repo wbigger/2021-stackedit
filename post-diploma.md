@@ -32,8 +32,9 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Domestika](https://www.domestika.org/)
 - [Cognitive Class](https://courses.cognitiveclass.ai/)
 
+## Startup
 - [LUISS 42 (startup)](https://42roma.it/)
-- [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
+
 
 ## Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
@@ -53,4 +54,5 @@ Di seguito delle conferenze annuali che consiglio di seguire in presenza o onlin
 - [Google I/O](https://events.google.com/io/)
 - [Apple WWDC](https://developer.apple.com/wwdc21/)
 - [AWS re:Invent](https://reinvent.awsevents.com/)
+- [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
