@@ -32,8 +32,8 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Domestika](https://www.domestika.org/)
 - [Cognitive Class](https://courses.cognitiveclass.ai/)
 
-## Startup
-- [LUISS 42 (startup)](https://42roma.it/)
+## Corsi in presenza
+- [LUISS 42 (Roma)](https://42roma.it/)
 
 
 ## Lavoro
