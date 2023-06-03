@@ -50,6 +50,7 @@ Di seguito delle conferenze ed eventi che consiglio di seguire in presenza o onl
 - [Codemotion](https://www.codemotion.com/)
   - [Meetups](https://events.codemotion.com/meetups/) 
 - [Droidcon](https://it.droidcon.com/)
+- [Meetup Italia](https://www.meetup.com/it-IT/)
 - [Google Developers Groups](https://gdg.community.dev/)
 - [Google I/O](https://events.google.com/io/)
 - [Apple WWDC](https://developer.apple.com/wwdc21/)
