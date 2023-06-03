@@ -31,6 +31,8 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Skillshare](https://www.skillshare.com/)
 - [Domestika](https://www.domestika.org/)
 - [Cognitive Class](https://courses.cognitiveclass.ai/)
+
+- [LUISS 42 (startup)](https://42roma.it/)
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 ## Lavoro
