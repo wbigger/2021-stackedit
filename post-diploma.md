@@ -46,7 +46,7 @@ Sito con corsi di natura prevalentemente tecnico-artistica (design, video, etc.)
 - [Domestika](https://www.domestika.org/)
 Sito con corsi creativi di tutti i generi, dal digital design alla pasticceria
 - [Cognitive Class](https://courses.cognitiveclass.ai/)
-Sito con corsi rel
+Sito con corsi per imparare a comprendere e usare l'intelligenza artificale
 
 ## Altri corsi
 - [LUISS 42 (Roma)](https://42roma.it)
@@ -73,6 +73,6 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDkyODMxOCw3MTI3Nzg4NjIsMzEzMz
-EyMzk3XX0=
+eyJoaXN0b3J5IjpbLTEyMTU2MDM2OTIsNzEyNzc4ODYyLDMxMz
+MxMjM5N119
 -->
