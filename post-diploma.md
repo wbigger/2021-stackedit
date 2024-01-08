@@ -22,6 +22,7 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
 - [Politecnico di Torino](http://orienta.polito.it/it/iscrizione)
 - [Università di Salerno (Fisciano)](https://web.unisa.it/didattica/immatricolazioni/informazioni)
 - [Università di Pisa](https://www.unipi.it/index.php/lauree/corso/10298)
+- Fisica: è probabilme che 
 
 ## ITS
 - [Istituti tecnologici superiori (ITS Academy)](https://www.miur.gov.it/tematica-its)
@@ -75,7 +76,7 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODk2NTMxMSwxNDU5NTg1MjYxLDE2OD
-M2MDYwMDEsLTEyMTU2MDM2OTIsNzEyNzc4ODYyLDMxMzMxMjM5
-N119
+eyJoaXN0b3J5IjpbLTIxMzQyMzM2NCwtNTg4OTY1MzExLDE0NT
+k1ODUyNjEsMTY4MzYwNjAwMSwtMTIxNTYwMzY5Miw3MTI3Nzg4
+NjIsMzEzMzEyMzk3XX0=
 -->
