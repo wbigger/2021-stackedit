@@ -59,7 +59,7 @@ Di seguito dei link molto utili per chi cerca lavoro.
 - [Linkedin](https://www.linkedin.com/)
 - [Glassdoor](https://www.glassdoor.it/)
 - [Hacker Rank](https://www.hackerrank.com/)
-- [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
+- [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
 
 ## Conferenze & Co.
 Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
@@ -75,6 +75,7 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTU4NTI2MSwxNjgzNjA2MDAxLC0xMj
-E1NjAzNjkyLDcxMjc3ODg2MiwzMTMzMTIzOTddfQ==
+eyJoaXN0b3J5IjpbLTU4ODk2NTMxMSwxNDU5NTg1MjYxLDE2OD
+M2MDYwMDEsLTEyMTU2MDM2OTIsNzEyNzc4ODYyLDMxMzMxMjM5
+N119
 -->
