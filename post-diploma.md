@@ -25,7 +25,7 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
 
 ## ITS
 - [Percorsi ITS](https://www.miur.gov.it/percorsi-its)
-- [ITS Academy Lazio Digitale](https://www.laziodigital.it/roma1.it/it/pagina-strutturale/corsi-e-iscrizioni)
+- [ITS Academy Lazio Digitale](https://www.laziodigital.it/)
 
 ## Studio Online
 Di seguito dei portali con ottimi corsi che si possono seguire online, per una formazione da affiancare al lavoro o all'università.
@@ -63,6 +63,6 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzY1MjIzNiw3MTI3Nzg4NjIsMzEzMz
-EyMzk3XX0=
+eyJoaXN0b3J5IjpbODU5NDYyODE5LDcxMjc3ODg2MiwzMTMzMT
+IzOTddfQ==
 -->
