@@ -79,16 +79,18 @@ Conferenza generalista sul mondo dello sviluppo software, anche a Roma
   - [Meetups](https://events.codemotion.com/meetups/) 
   I Meetups sono degli incontri informali in cui incontrare in maniera informale con appassionati ed esperti di una certa tecnologia, un modo di imparare divertente e costruttivo
 - [Droidcon](https://it.droidcon.com/)
-Conferenza
-- [Meetup Italia](https://www.meetup.com/it-IT- [Droidcon](https://it.droidcon.com/)
+Conferenza specifica sul mondo Android, in genere si tiene a Torino
+- [Meetup Italia](https://www.meetup.com/it-IT)
+Piattaforma in cui trovare tutti i tipi di meetup, anche tecnici
 - [Google Developers Groups](https://gdg.community.dev/)
+
 - [Google I/O](https://events.google.com/io/)
 - [Apple WWDC](https://developer.apple.com/wwdc21/)
 - [AWS re:Invent](https://reinvent.awsevents.com/)
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTg0ODA1NSwtNTg4OTY1MzExLDE0NT
-k1ODUyNjEsMTY4MzYwNjAwMSwtMTIxNTYwMzY5Miw3MTI3Nzg4
-NjIsMzEzMzEyMzk3XX0=
+eyJoaXN0b3J5IjpbMTg4Nzg1MzMwLC01ODg5NjUzMTEsMTQ1OT
+U4NTI2MSwxNjgzNjA2MDAxLC0xMjE1NjAzNjkyLDcxMjc3ODg2
+MiwzMTMzMTIzOTddfQ==
 -->
