@@ -67,12 +67,15 @@ Per gli sviluppatori, creare un profilo su Hacker Rank può essere un ottimo str
 
 ### Altri collegamenti utili
 - [Stackoverflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
-Probabilmente la panoramica più completa sulla situazione at
+Probabilmente la panoramica più completa sulla situazione attuale dello sviluppo software, con diverse analisi interessanti sui trend e gli sviluppi futuri.
+- [TIOBE Index](https://www.tiobe.com/tiobe-index/)
+Una delle classifiche più autorevoli sulla diffusione dei linguaggi di programmazione.
 
 ## Conferenze & Co.
 Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
 
 - [Codemotion](https://www.codemotion.com/)
+Conferenza generalista sul mondo dello sviluppo software
   - [Meetups](https://events.codemotion.com/meetups/) 
 - [Droidcon](https://it.droidcon.com/)
 - [Meetup Italia](https://www.meetup.com/it-IT- [Droidcon](https://it.droidcon.com/)
@@ -83,7 +86,7 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Nzk3MTc5NCwtNTg4OTY1MzExLDE0NT
+eyJoaXN0b3J5IjpbMTU3Njc1ODQ4OSwtNTg4OTY1MzExLDE0NT
 k1ODUyNjEsMTY4MzYwNjAwMSwtMTIxNTYwMzY5Miw3MTI3Nzg4
 NjIsMzEzMzEyMzk3XX0=
 -->
