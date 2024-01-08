@@ -63,8 +63,11 @@ Social Network per i contatti professionali, un must-have per chiunque cerchi la
 - [Glassdoor](https://www.glassdoor.it/)
 Piattaforma per capire la qualità delle varie aziende e quanto guadagnano i dipendenti
 - [Hacker Rank](https://www.hackerrank.com/)
-Per gli sviluppatori, creare un profilo su Hacker Rank può essere un ottimo strumento per far capire alle aziende c
-- [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
+Per gli sviluppatori, creare un profilo su Hacker Rank può essere un ottimo strumento per far capire alle aziende che assumono il livello di competenza in diversi linguaggi e tecnologie
+
+### Altri collegamenti utili
+- [Stackoverflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
+Probabilmente la panoramica più completa sulla situazione at
 
 ## Conferenze & Co.
 Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
@@ -80,7 +83,7 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxOTA3MjkzLC01ODg5NjUzMTEsMTQ1OT
-U4NTI2MSwxNjgzNjA2MDAxLC0xMjE1NjAzNjkyLDcxMjc3ODg2
-MiwzMTMzMTIzOTddfQ==
+eyJoaXN0b3J5IjpbLTc3Nzk3MTc5NCwtNTg4OTY1MzExLDE0NT
+k1ODUyNjEsMTY4MzYwNjAwMSwtMTIxNTYwMzY5Miw3MTI3Nzg4
+NjIsMzEzMzEyMzk3XX0=
 -->
