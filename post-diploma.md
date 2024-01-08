@@ -32,8 +32,9 @@ ITS del Lazio dedicato a percorsi di formazione in informatica
 ## Studio Online
 Di seguito dei portali con ottimi corsi che si possono seguire online, per una formazione da affiancare al lavoro o all'università.
 - [Coursera](https://www.coursera.org)
-Sito più conosciuto per la
+Sito più conosciuto per i corsi online, fondato dall'Università di Stanford. Contiene corsi di livello universitario su tutte le materie, da quelle umanistiche a quelle scientifiche e tecnologiche. Permette di 
 - [EdX](https://www.edx.org/)
+Sito molto r
 - [Udacity](https://www.udacity.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Udemy](https://www.udemy.com/)
@@ -66,6 +67,6 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTA5NjkzMiw3MTI3Nzg4NjIsMzEzMz
-EyMzk3XX0=
+eyJoaXN0b3J5IjpbNjkzMDY1NjgsNzEyNzc4ODYyLDMxMzMxMj
+M5N119
 -->
