@@ -11,7 +11,7 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
 - [Università La Sapienza](https://www.uniroma1.it/it/pagina-strutturale/corsi-e-iscrizioni)
   - [Informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/29923/home)
   - [Ingegneria informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/31810/home)
-- [Università Roma Tre](https://www.inf.uniroma3.it/)informagiovaniroma.it/estero/approfondimenti/studiare-all-estero)
+- [Università Roma Tre](https://www.inf.uniroma3.it/)
 - [USA](https://gradadmissions.mit.edu/applications/international-applicants)
 
 
@@ -20,7 +20,7 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
 - [Politecnico di Milano](http://www.poliorientami.polimi.it/come-si-accede/ingegneria/infografica/)
 - [Politecnico di Torino](http://orienta.polito.it/it/iscrizione)
 - [Università di Salerno (Fisciano)](https://web.unisa.it/didattica/immatricolazioni/informazioni)
-- [Università di PisLa Sapienza](https://www.unipi.it/index.php/lauree/corso/10298)
+- [Università di Pisa](https://www.unipi.it/index.php/lauree/corso/10298)
 
 ## ITS
 - [Percorsi ITS](https://www.miur.gov.it/percorsi-its)
@@ -37,12 +37,9 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Domestika](https://www.domestika.org/)
 - [Cognitive Class](https://courses.cognitiveclass.ai/)
 
-## Corsi in presenza
-- [LUISS 42 (Roma)](https://42roma.itCognitive Class](https://courses.cognitiveclass.ai/)
+## Altri corsi
+- [LUISS 42 (Roma)](https://42roma.it)
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
-- [Skillshare](https://www.skillshare.com/)
-- [Udacity](https://www.udacity.com/)
-
 
 ## Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
@@ -50,9 +47,6 @@ Di seguito dei link molto utili per chi cerca lavoro.
 - [Glassdoor](https://www.glassdoor.it/)
 - [Hacker Rank](https://www.hackerrank.com/)
 - [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
-- [Hacker Rank](https://www.hackerrank.com/)
-- [Glassdoor](https://www.glassdoor.it/)
-
 
 ## Conferenze & Co.
 Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
@@ -68,5 +62,5 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzMzEyMzk3XX0=
+eyJoaXN0b3J5IjpbNzEyNzc4ODYyLDMxMzMxMjM5N119
 -->
