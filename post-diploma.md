@@ -24,7 +24,7 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
 - [Università di Pisa](https://www.unipi.it/index.php/lauree/corso/10298)
 
 ## ITS
-- [Percorsi ITS](https://www.miur.gov.it/percorsi-its)
+- [Percorsi ITS](https://www.miur.gov.it/tematica-its)
 - [ITS Academy Lazio Digitale](https://www.laziodigital.it/)
 
 ## Studio Online
@@ -63,6 +63,6 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NDYyODE5LDcxMjc3ODg2MiwzMTMzMT
-IzOTddfQ==
+eyJoaXN0b3J5IjpbMTY0NTk2MTU0Niw3MTI3Nzg4NjIsMzEzMz
+EyMzk3XX0=
 -->
