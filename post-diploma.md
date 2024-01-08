@@ -85,13 +85,14 @@ Piattaforma in cui trovare tutti i tipi di meetup, anche tecnici
 - [Google Developers Groups](https://gdg.community.dev/gdg-roma/)
 Comunità di sviluppatori Google, ci sono questi gruppi sparsi un po' ovunque, il più vicino a noi è a Roma
 - [Google I/O](https://events.google.com/io/)
-Conferenza che si tiene ne
+Conferenza che si tiene negli HQ di Google a San Francisco e trasmessa in streaming, ma esistono anche le versioni [extended](https://gdg.community.dev/ioextended/), ovvero gruppi di persone che si incontrano fisicamente insieme per vedere la diretta; normalmente questi incontri prevedono anche altre attività come talk o eventi sociali
 - [Apple WWDC](https://developer.apple.com/wwdc21/)
+
 - [AWS re:Invent](https://reinvent.awsevents.com/)
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA4NTcwMDYsLTU4ODk2NTMxMSwxND
+eyJoaXN0b3J5IjpbLTE0NzA3MzYwNzQsLTU4ODk2NTMxMSwxND
 U5NTg1MjYxLDE2ODM2MDYwMDEsLTEyMTU2MDM2OTIsNzEyNzc4
 ODYyLDMxMzMxMjM5N119
 -->
