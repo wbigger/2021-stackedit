@@ -87,12 +87,12 @@ Comunità di sviluppatori Google, ci sono questi gruppi sparsi un po' ovunque, i
 - [Google I/O](https://events.google.com/io/)
 Conferenza annuale che si tiene negli HQ di Google a San Francisco e trasmessa in streaming, ma esistono anche le versioni [extended](https://gdg.community.dev/ioextended/), ovvero gruppi di persone che si incontrano fisicamente insieme per vedere la diretta; normalmente questi incontri prevedono anche altre attività come talk o eventi sociali
 - [Apple WWDC](https://developer.apple.com/wwdc23/)
-Conferenza annuale di Apple in cui 
+Conferenza annuale di Apple in cui svelano i nuovi prodotti e funzionalità
 - [AWS re:Invent](https://reinvent.awsevents.com/)
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODkyNzAwNCwtNTg4OTY1MzExLDE0NT
-k1ODUyNjEsMTY4MzYwNjAwMSwtMTIxNTYwMzY5Miw3MTI3Nzg4
-NjIsMzEzMzEyMzk3XX0=
+eyJoaXN0b3J5IjpbNTkzMjcyNTE5LC01ODg5NjUzMTEsMTQ1OT
+U4NTI2MSwxNjgzNjA2MDAxLC0xMjE1NjAzNjkyLDcxMjc3ODg2
+MiwzMTMzMTIzOTddfQ==
 -->
