@@ -40,10 +40,13 @@ A differenza dei siti precedenti, questi sono dei veri e propri percorsi univers
 - [Pluralsight](https://www.pluralsight.com/)
 Sito con tipo di sottoscrizione alla "Netflix" con moltissimi corsi online di tema tecnico. Qualità medio alta.
 - [Udemy](https://www.udemy.com/)
-Sito in cui chiunque può
+Sito in cui chiunque può pubblicare i propri corsi. Il costo in genere è contenuto ma la qualità è estremamente variabile da corso a corso.
 - [Skillshare](https://www.skillshare.com/)
+Sito con corsi di natura prevalentemente tecnico-artistica (design, video, etc.)
 - [Domestika](https://www.domestika.org/)
+Sito con corsi creativi di tutti i generi, dal digital design alla pasticceria
 - [Cognitive Class](https://courses.cognitiveclass.ai/)
+Sito con corsi rel
 
 ## Altri corsi
 - [LUISS 42 (Roma)](https://42roma.it)
@@ -70,6 +73,6 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyODIxNjM4LDcxMjc3ODg2MiwzMTMzMT
-IzOTddfQ==
+eyJoaXN0b3J5IjpbLTkxNDkyODMxOCw3MTI3Nzg4NjIsMzEzMz
+EyMzk3XX0=
 -->
