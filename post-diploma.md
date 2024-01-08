@@ -67,7 +67,7 @@ Per gli sviluppatori, creare un profilo su Hacker Rank può essere un ottimo str
 
 ### Altri collegamenti utili
 - [Stackoverflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
-Probabilmente la panoramica più completa sulla situazione attuale dello sviluppo software, con diverse analisi interessanti sui trend e gli sviluppi futuri.
+Probabilmente la panoramica più completa sulla situazione attuale dello sviluppo software, con diverse analisi interessanti sui trend e gli sviluppi futuri, stipendio medio degli sviluppatori di un dato linguaggio, etc
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 Una delle classifiche più autorevoli sulla diffusione dei linguaggi di programmazione.
 
@@ -89,10 +89,10 @@ Conferenza annuale che si tiene negli HQ di Google a San Francisco e trasmessa i
 - [Apple WWDC](https://developer.apple.com/wwdc23/)
 Conferenza annuale di Apple in cui svelano i nuovi prodotti e funzionalità
 - [AWS re:Invent](https://reinvent.awsevents.com/)
-- [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
+Conferenza annuale sulle tecnologie cloud di Amazon Web Services
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMjcyNTE5LC01ODg5NjUzMTEsMTQ1OT
-U4NTI2MSwxNjgzNjA2MDAxLC0xMjE1NjAzNjkyLDcxMjc3ODg2
-MiwzMTMzMTIzOTddfQ==
+eyJoaXN0b3J5IjpbNjEwMTA2OTk1LDU5MzI3MjUxOSwtNTg4OT
+Y1MzExLDE0NTk1ODUyNjEsMTY4MzYwNjAwMSwtMTIxNTYwMzY5
+Miw3MTI3Nzg4NjIsMzEzMzEyMzk3XX0=
 -->
