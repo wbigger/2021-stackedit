@@ -50,6 +50,7 @@ Sito con corsi per imparare a comprendere e usare l'intelligenza artificale
 
 ## Altri corsi
 - [LUISS 42 (Roma)](https://42roma.it)
+Scuola di coding gratuita orientata alle startup, consigliata a chi è orientato in futuro a partecipare ad un
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 ## Lavoro
@@ -73,6 +74,6 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU2MDM2OTIsNzEyNzc4ODYyLDMxMz
-MxMjM5N119
+eyJoaXN0b3J5IjpbLTExNDAyMTE2NzQsLTEyMTU2MDM2OTIsNz
+EyNzc4ODYyLDMxMzMxMjM5N119
 -->
