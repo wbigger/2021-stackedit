@@ -7,14 +7,15 @@ Portale dell'Unione Europea per facilitare la mobilità delle persone, sia per l
 - [Portale dei InformaGiovani](https://www.portaledeigiovani.it/)
 Un altro sito con informazioni con opportunità di mobilità educativa transnazionale
 - [Erasmus+](https://erasmus-plus.ec.europa.eu/it/opportunities/opportunities-for-individuals/students)
-Sito ufficiale dell'Erasmus, con tutti i bandi e le informazioni
-- [MIT Boston](https://oge.mit.edu/graduate-admissions/)
+Sito ufficiale dell'Erasmus, con tutti i bandi e le informazioni per studiare all'estero
+- [MIT Boston](https://oge.mit.edu/graduate-admissions/) 
+Per un informatico, probabilmente l'MIT è il miglio posto per studiare; ci sono diverse borse di studio a cui si può provare a partecipare, sicuramente non è semplice vincere ma può valere la pena fare un tentativo.
 
 ## Università in Italia
 Di seguito alcuni siti di università italiane che hanno buone facoltà di informatica.
 - [Università La Sapienza](https://www.uniroma1.it/it/pagina-strutturale/corsi-e-iscrizioni)
   - [Informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/29923/home)
-  - [Ingegneria informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/31810/home)
+  - [Ingegneria informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/31810/home) 
 - [Università Roma Tre](https://www.inf.uniroma3.it/)
 - [USA](https://gradadmissions.mit.edu/applications/international-applicants)
 
@@ -66,6 +67,6 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg3MTUxMjUsNzEyNzc4ODYyLDMxMz
-MxMjM5N119
+eyJoaXN0b3J5IjpbMTExODQ5MDEyMiw3MTI3Nzg4NjIsMzEzMz
+EyMzk3XX0=
 -->
