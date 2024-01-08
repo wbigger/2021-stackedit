@@ -16,7 +16,7 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
 - Università La Sapienza
   - [Informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/29923/home)
   - [Ingegneria informatica e Automatica](https://corsidilaurea.uniroma1.it/it/corso/2022/31810/home) 
-  - [Fisica](https://www.phys.uniroma1.it/fisica/) (è probabile che nei prossimi anni l'informatica sarà radicalmente cambiata dai nuovi tipi di processore in sviluppo oggi - CPU quantistiche, micotiche, liquide, ottiche, etc. - studiare fisica p 
+  - [Fisica](https://www.phys.uniroma1.it/fisica/) (è probabile che nei prossimi anni l'informatica sarà radicalmente cambiata dai nuovi tipi di processore in sviluppo oggi - CPU quantistiche, micotiche, liquide, ottiche, etc. - studiare fisica potrebbe essere molto interessante) 
 - Università Roma Tre
   - [Informatica e Automazione](https://www.inf.uniroma3.it/)
 - [Politecnico di Milano](http://www.poliorientami.polimi.it/come-si-accede/ingegneria/infografica/)
@@ -59,6 +59,7 @@ Progetti estivi di Google, utile per entrare in contatto con il mondo degli svil
 ## Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
 - [Linkedin](https://www.linkedin.com/)
+Social Network per i contatti professionali, un must-have per chiunque 
 - [Glassdoor](https://www.glassdoor.it/)
 - [Hacker Rank](https://www.hackerrank.com/)
 - [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
@@ -77,7 +78,7 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjExNTUxNiwtNTg4OTY1MzExLDE0NT
+eyJoaXN0b3J5IjpbMTAzMDE3MTAxMiwtNTg4OTY1MzExLDE0NT
 k1ODUyNjEsMTY4MzYwNjAwMSwtMTIxNTYwMzY5Miw3MTI3Nzg4
 NjIsMzEzMzEyMzk3XX0=
 -->
