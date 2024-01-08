@@ -59,9 +59,11 @@ Progetti estivi di Google, utile per entrare in contatto con il mondo degli svil
 ## Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
 - [Linkedin](https://www.linkedin.com/)
-Social Network per i contatti professionali, un must-have per chiunque 
+Social Network per i contatti professionali, un must-have per chiunque cerchi lavoro - la pagina deve essere con foto e compilata adeguatamente in tutte le sue parti
 - [Glassdoor](https://www.glassdoor.it/)
+Piattaforma per capire la qualità delle varie aziende e quanto guadagnano i dipendenti
 - [Hacker Rank](https://www.hackerrank.com/)
+Per gli sviluppatori, creare un profilo su Hacker Rank può essere un ottimo strumento per far capire alle aziende c
 - [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
 
 ## Conferenze & Co.
@@ -78,7 +80,7 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDE3MTAxMiwtNTg4OTY1MzExLDE0NT
-k1ODUyNjEsMTY4MzYwNjAwMSwtMTIxNTYwMzY5Miw3MTI3Nzg4
-NjIsMzEzMzEyMzk3XX0=
+eyJoaXN0b3J5IjpbNDMxOTA3MjkzLC01ODg5NjUzMTEsMTQ1OT
+U4NTI2MSwxNjgzNjA2MDAxLC0xMjE1NjAzNjkyLDcxMjc3ODg2
+MiwzMTMzMTIzOTddfQ==
 -->
