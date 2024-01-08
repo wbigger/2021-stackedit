@@ -1,11 +1,13 @@
 # Occasioni post-diploma
 
 ## Studiare e lavorare all'estero
+Lavorare e studiare all'estero può essere più semplice di quanto si possa pensare, ed è un'opportunità importantissima per arricchire le proprie conoscenze e competenze.
 - [Portale Europeo per i Giovani](https://youth.europa.eu/home_it)
 Portale dell'Unione Europea per facilitare la mobilità delle persone, sia per lavoro che per studio; ci sono anche opportunità di volontariato (es. ragazzo/a alla pari) per imparare la lingua e dare un aiuto nel sociale
 - [Portale dei InformaGiovani](https://www.portaledeigiovani.it/)
-Un altro sito con informazioni con opportunità di 
+Un altro sito con informazioni con opportunità di mobilità educativa transnazionale
 - [Erasmus+](https://erasmus-plus.ec.europa.eu/it/opportunities/opportunities-for-individuals/students)
+Sito ufficiale dell'Erasmus, con tutti i bandi e le informazioni
 - [MIT Boston](https://oge.mit.edu/graduate-admissions/)
 
 ## Università in Italia
@@ -64,6 +66,6 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI0MTY5MTAsNzEyNzc4ODYyLDMxMz
+eyJoaXN0b3J5IjpbLTE2MTg3MTUxMjUsNzEyNzc4ODYyLDMxMz
 MxMjM5N119
 -->
