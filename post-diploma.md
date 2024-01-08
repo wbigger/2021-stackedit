@@ -36,9 +36,11 @@ Sito più conosciuto per i corsi online, fondato dall'Università di Stanford. C
 - [EdX](https://www.edx.org/)
 Sito dell'MIT per la formazione online, molti corsi sono completamente gratuiti. Anche in questo caso la qualità dei corsi è molto alta.
 - [Udacity](https://www.udacity.com/)
-A differenza dei siti precedenti, questi sono dei veri e propri percorsi universitari online con personale docente. I costi sono più alti ma comunque molto contenuti rispetto ad altri tipi di 
+A differenza dei siti precedenti, questi sono dei veri e propri percorsi universitari online con personale docente. I costi sono più alti ma comunque abbastanza contenuti per il tipo di servizio fornito. Gli argomenti sono principalmente tecnici, i corsi sono di ottima qualità.
 - [Pluralsight](https://www.pluralsight.com/)
+Sito con tipo di sottoscrizione alla "Netflix" con moltissimi corsi online di tema tecnico. Qualità medio alta.
 - [Udemy](https://www.udemy.com/)
+Sito in cui chiunque può
 - [Skillshare](https://www.skillshare.com/)
 - [Domestika](https://www.domestika.org/)
 - [Cognitive Class](https://courses.cognitiveclass.ai/)
@@ -68,6 +70,6 @@ Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTMxNzMzMiw3MTI3Nzg4NjIsMzEzMz
-EyMzk3XX0=
+eyJoaXN0b3J5IjpbODQyODIxNjM4LDcxMjc3ODg2MiwzMTMzMT
+IzOTddfQ==
 -->
