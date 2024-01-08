@@ -75,9 +75,11 @@ Una delle classifiche più autorevoli sulla diffusione dei linguaggi di programm
 Di seguito delle conferenze ed eventannuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
 
 - [Codemotion](https://www.codemotion.com/)
-Conferenza generalista sul mondo dello sviluppo software
+Conferenza generalista sul mondo dello sviluppo software, anche a Roma
   - [Meetups](https://events.codemotion.com/meetups/) 
+  I Meetups sono degli incontri informali in cui incontrare in maniera informale con appassionati ed esperti di una certa tecnologia, un modo di imparare divertente e costruttivo
 - [Droidcon](https://it.droidcon.com/)
+Conferenza
 - [Meetup Italia](https://www.meetup.com/it-IT- [Droidcon](https://it.droidcon.com/)
 - [Google Developers Groups](https://gdg.community.dev/)
 - [Google I/O](https://events.google.com/io/)
@@ -86,7 +88,7 @@ Conferenza generalista sul mondo dello sviluppo software
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Njc1ODQ4OSwtNTg4OTY1MzExLDE0NT
+eyJoaXN0b3J5IjpbMTY0NTg0ODA1NSwtNTg4OTY1MzExLDE0NT
 k1ODUyNjEsMTY4MzYwNjAwMSwtMTIxNTYwMzY5Miw3MTI3Nzg4
 NjIsMzEzMzEyMzk3XX0=
 -->
